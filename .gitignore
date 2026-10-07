@@ -1,0 +1,10 @@
+# Ignorujeme celou složku se surovými daty (CSV i velký 9MB JSON)
+data_raw/
+
+# Pro jistotu ignorujeme CSV všude
+*.csv
+scripts/*.csv
+
+# Systémové soubory macOS a Pythonu
+.DS_Store
+__pycache__/
