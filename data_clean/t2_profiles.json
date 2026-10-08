@@ -1,0 +1,866 @@
+[
+  {
+    "vzdelani_text":"Bakalářské",
+    "rodinny_stav_text":"Družka",
+    "pocet_predch_UPT":0,
+    "pocet":28
+  },
+  {
+    "vzdelani_text":"Bakalářské",
+    "rodinny_stav_text":"Družka",
+    "pocet_predch_UPT":1,
+    "pocet":5
+  },
+  {
+    "vzdelani_text":"Bakalářské",
+    "rodinny_stav_text":"Družka",
+    "pocet_predch_UPT":2,
+    "pocet":3
+  },
+  {
+    "vzdelani_text":"Bakalářské",
+    "rodinny_stav_text":"Nezjištěno",
+    "pocet_predch_UPT":0,
+    "pocet":349
+  },
+  {
+    "vzdelani_text":"Bakalářské",
+    "rodinny_stav_text":"Nezjištěno",
+    "pocet_predch_UPT":1,
+    "pocet":47
+  },
+  {
+    "vzdelani_text":"Bakalářské",
+    "rodinny_stav_text":"Nezjištěno",
+    "pocet_predch_UPT":2,
+    "pocet":10
+  },
+  {
+    "vzdelani_text":"Bakalářské",
+    "rodinny_stav_text":"Ovdovělá",
+    "pocet_predch_UPT":0,
+    "pocet":28
+  },
+  {
+    "vzdelani_text":"Bakalářské",
+    "rodinny_stav_text":"Ovdovělá",
+    "pocet_predch_UPT":1,
+    "pocet":7
+  },
+  {
+    "vzdelani_text":"Bakalářské",
+    "rodinny_stav_text":"Ovdovělá",
+    "pocet_predch_UPT":2,
+    "pocet":8
+  },
+  {
+    "vzdelani_text":"Bakalářské",
+    "rodinny_stav_text":"Rozvedená",
+    "pocet_predch_UPT":0,
+    "pocet":861
+  },
+  {
+    "vzdelani_text":"Bakalářské",
+    "rodinny_stav_text":"Rozvedená",
+    "pocet_predch_UPT":1,
+    "pocet":294
+  },
+  {
+    "vzdelani_text":"Bakalářské",
+    "rodinny_stav_text":"Rozvedená",
+    "pocet_predch_UPT":2,
+    "pocet":111
+  },
+  {
+    "vzdelani_text":"Bakalářské",
+    "rodinny_stav_text":"Svobodná",
+    "pocet_predch_UPT":0,
+    "pocet":7766
+  },
+  {
+    "vzdelani_text":"Bakalářské",
+    "rodinny_stav_text":"Svobodná",
+    "pocet_predch_UPT":1,
+    "pocet":1048
+  },
+  {
+    "vzdelani_text":"Bakalářské",
+    "rodinny_stav_text":"Svobodná",
+    "pocet_predch_UPT":2,
+    "pocet":187
+  },
+  {
+    "vzdelani_text":"Bakalářské",
+    "rodinny_stav_text":"Vdaná",
+    "pocet_predch_UPT":0,
+    "pocet":8400
+  },
+  {
+    "vzdelani_text":"Bakalářské",
+    "rodinny_stav_text":"Vdaná",
+    "pocet_predch_UPT":1,
+    "pocet":1169
+  },
+  {
+    "vzdelani_text":"Bakalářské",
+    "rodinny_stav_text":"Vdaná",
+    "pocet_predch_UPT":2,
+    "pocet":403
+  },
+  {
+    "vzdelani_text":"Nezjištěno",
+    "rodinny_stav_text":"Družka",
+    "pocet_predch_UPT":0,
+    "pocet":151
+  },
+  {
+    "vzdelani_text":"Nezjištěno",
+    "rodinny_stav_text":"Družka",
+    "pocet_predch_UPT":1,
+    "pocet":48
+  },
+  {
+    "vzdelani_text":"Nezjištěno",
+    "rodinny_stav_text":"Družka",
+    "pocet_predch_UPT":2,
+    "pocet":32
+  },
+  {
+    "vzdelani_text":"Nezjištěno",
+    "rodinny_stav_text":"Nezjištěno",
+    "pocet_predch_UPT":0,
+    "pocet":8447
+  },
+  {
+    "vzdelani_text":"Nezjištěno",
+    "rodinny_stav_text":"Nezjištěno",
+    "pocet_predch_UPT":1,
+    "pocet":1417
+  },
+  {
+    "vzdelani_text":"Nezjištěno",
+    "rodinny_stav_text":"Nezjištěno",
+    "pocet_predch_UPT":2,
+    "pocet":612
+  },
+  {
+    "vzdelani_text":"Nezjištěno",
+    "rodinny_stav_text":"Ovdovělá",
+    "pocet_predch_UPT":0,
+    "pocet":266
+  },
+  {
+    "vzdelani_text":"Nezjištěno",
+    "rodinny_stav_text":"Ovdovělá",
+    "pocet_predch_UPT":1,
+    "pocet":96
+  },
+  {
+    "vzdelani_text":"Nezjištěno",
+    "rodinny_stav_text":"Ovdovělá",
+    "pocet_predch_UPT":2,
+    "pocet":81
+  },
+  {
+    "vzdelani_text":"Nezjištěno",
+    "rodinny_stav_text":"Rozvedená",
+    "pocet_predch_UPT":0,
+    "pocet":5569
+  },
+  {
+    "vzdelani_text":"Nezjištěno",
+    "rodinny_stav_text":"Rozvedená",
+    "pocet_predch_UPT":1,
+    "pocet":2437
+  },
+  {
+    "vzdelani_text":"Nezjištěno",
+    "rodinny_stav_text":"Rozvedená",
+    "pocet_predch_UPT":2,
+    "pocet":1610
+  },
+  {
+    "vzdelani_text":"Nezjištěno",
+    "rodinny_stav_text":"Svobodná",
+    "pocet_predch_UPT":0,
+    "pocet":41808
+  },
+  {
+    "vzdelani_text":"Nezjištěno",
+    "rodinny_stav_text":"Svobodná",
+    "pocet_predch_UPT":1,
+    "pocet":9057
+  },
+  {
+    "vzdelani_text":"Nezjištěno",
+    "rodinny_stav_text":"Svobodná",
+    "pocet_predch_UPT":2,
+    "pocet":4081
+  },
+  {
+    "vzdelani_text":"Nezjištěno",
+    "rodinny_stav_text":"Vdaná",
+    "pocet_predch_UPT":0,
+    "pocet":40182
+  },
+  {
+    "vzdelani_text":"Nezjištěno",
+    "rodinny_stav_text":"Vdaná",
+    "pocet_predch_UPT":1,
+    "pocet":8008
+  },
+  {
+    "vzdelani_text":"Nezjištěno",
+    "rodinny_stav_text":"Vdaná",
+    "pocet_predch_UPT":2,
+    "pocet":3744
+  },
+  {
+    "vzdelani_text":"Střední odborné",
+    "rodinny_stav_text":"Družka",
+    "pocet_predch_UPT":0,
+    "pocet":491
+  },
+  {
+    "vzdelani_text":"Střední odborné",
+    "rodinny_stav_text":"Družka",
+    "pocet_predch_UPT":1,
+    "pocet":249
+  },
+  {
+    "vzdelani_text":"Střední odborné",
+    "rodinny_stav_text":"Družka",
+    "pocet_predch_UPT":2,
+    "pocet":162
+  },
+  {
+    "vzdelani_text":"Střední odborné",
+    "rodinny_stav_text":"Nezjištěno",
+    "pocet_predch_UPT":0,
+    "pocet":1490
+  },
+  {
+    "vzdelani_text":"Střední odborné",
+    "rodinny_stav_text":"Nezjištěno",
+    "pocet_predch_UPT":1,
+    "pocet":438
+  },
+  {
+    "vzdelani_text":"Střední odborné",
+    "rodinny_stav_text":"Nezjištěno",
+    "pocet_predch_UPT":2,
+    "pocet":211
+  },
+  {
+    "vzdelani_text":"Střední odborné",
+    "rodinny_stav_text":"Ovdovělá",
+    "pocet_predch_UPT":0,
+    "pocet":1190
+  },
+  {
+    "vzdelani_text":"Střední odborné",
+    "rodinny_stav_text":"Ovdovělá",
+    "pocet_predch_UPT":1,
+    "pocet":820
+  },
+  {
+    "vzdelani_text":"Střední odborné",
+    "rodinny_stav_text":"Ovdovělá",
+    "pocet_predch_UPT":2,
+    "pocet":684
+  },
+  {
+    "vzdelani_text":"Střední odborné",
+    "rodinny_stav_text":"Rozvedená",
+    "pocet_predch_UPT":0,
+    "pocet":19364
+  },
+  {
+    "vzdelani_text":"Střední odborné",
+    "rodinny_stav_text":"Rozvedená",
+    "pocet_predch_UPT":1,
+    "pocet":14809
+  },
+  {
+    "vzdelani_text":"Střední odborné",
+    "rodinny_stav_text":"Rozvedená",
+    "pocet_predch_UPT":2,
+    "pocet":12924
+  },
+  {
+    "vzdelani_text":"Střední odborné",
+    "rodinny_stav_text":"Svobodná",
+    "pocet_predch_UPT":0,
+    "pocet":96449
+  },
+  {
+    "vzdelani_text":"Střední odborné",
+    "rodinny_stav_text":"Svobodná",
+    "pocet_predch_UPT":1,
+    "pocet":27238
+  },
+  {
+    "vzdelani_text":"Střední odborné",
+    "rodinny_stav_text":"Svobodná",
+    "pocet_predch_UPT":2,
+    "pocet":11966
+  },
+  {
+    "vzdelani_text":"Střední odborné",
+    "rodinny_stav_text":"Vdaná",
+    "pocet_predch_UPT":0,
+    "pocet":114248
+  },
+  {
+    "vzdelani_text":"Střední odborné",
+    "rodinny_stav_text":"Vdaná",
+    "pocet_predch_UPT":1,
+    "pocet":48825
+  },
+  {
+    "vzdelani_text":"Střední odborné",
+    "rodinny_stav_text":"Vdaná",
+    "pocet_predch_UPT":2,
+    "pocet":32192
+  },
+  {
+    "vzdelani_text":"Vysokoškolské",
+    "rodinny_stav_text":"Družka",
+    "pocet_predch_UPT":0,
+    "pocet":105
+  },
+  {
+    "vzdelani_text":"Vysokoškolské",
+    "rodinny_stav_text":"Družka",
+    "pocet_predch_UPT":1,
+    "pocet":24
+  },
+  {
+    "vzdelani_text":"Vysokoškolské",
+    "rodinny_stav_text":"Družka",
+    "pocet_predch_UPT":2,
+    "pocet":11
+  },
+  {
+    "vzdelani_text":"Vysokoškolské",
+    "rodinny_stav_text":"Nezjištěno",
+    "pocet_predch_UPT":0,
+    "pocet":1510
+  },
+  {
+    "vzdelani_text":"Vysokoškolské",
+    "rodinny_stav_text":"Nezjištěno",
+    "pocet_predch_UPT":1,
+    "pocet":192
+  },
+  {
+    "vzdelani_text":"Vysokoškolské",
+    "rodinny_stav_text":"Nezjištěno",
+    "pocet_predch_UPT":2,
+    "pocet":49
+  },
+  {
+    "vzdelani_text":"Vysokoškolské",
+    "rodinny_stav_text":"Ovdovělá",
+    "pocet_predch_UPT":0,
+    "pocet":264
+  },
+  {
+    "vzdelani_text":"Vysokoškolské",
+    "rodinny_stav_text":"Ovdovělá",
+    "pocet_predch_UPT":1,
+    "pocet":102
+  },
+  {
+    "vzdelani_text":"Vysokoškolské",
+    "rodinny_stav_text":"Ovdovělá",
+    "pocet_predch_UPT":2,
+    "pocet":71
+  },
+  {
+    "vzdelani_text":"Vysokoškolské",
+    "rodinny_stav_text":"Rozvedená",
+    "pocet_predch_UPT":0,
+    "pocet":4276
+  },
+  {
+    "vzdelani_text":"Vysokoškolské",
+    "rodinny_stav_text":"Rozvedená",
+    "pocet_predch_UPT":1,
+    "pocet":1858
+  },
+  {
+    "vzdelani_text":"Vysokoškolské",
+    "rodinny_stav_text":"Rozvedená",
+    "pocet_predch_UPT":2,
+    "pocet":1096
+  },
+  {
+    "vzdelani_text":"Vysokoškolské",
+    "rodinny_stav_text":"Svobodná",
+    "pocet_predch_UPT":0,
+    "pocet":25319
+  },
+  {
+    "vzdelani_text":"Vysokoškolské",
+    "rodinny_stav_text":"Svobodná",
+    "pocet_predch_UPT":1,
+    "pocet":3722
+  },
+  {
+    "vzdelani_text":"Vysokoškolské",
+    "rodinny_stav_text":"Svobodná",
+    "pocet_predch_UPT":2,
+    "pocet":837
+  },
+  {
+    "vzdelani_text":"Vysokoškolské",
+    "rodinny_stav_text":"Vdaná",
+    "pocet_predch_UPT":0,
+    "pocet":56547
+  },
+  {
+    "vzdelani_text":"Vysokoškolské",
+    "rodinny_stav_text":"Vdaná",
+    "pocet_predch_UPT":1,
+    "pocet":11709
+  },
+  {
+    "vzdelani_text":"Vysokoškolské",
+    "rodinny_stav_text":"Vdaná",
+    "pocet_predch_UPT":2,
+    "pocet":4892
+  },
+  {
+    "vzdelani_text":"Základní neukončené",
+    "rodinny_stav_text":"Družka",
+    "pocet_predch_UPT":0,
+    "pocet":67
+  },
+  {
+    "vzdelani_text":"Základní neukončené",
+    "rodinny_stav_text":"Družka",
+    "pocet_predch_UPT":1,
+    "pocet":37
+  },
+  {
+    "vzdelani_text":"Základní neukončené",
+    "rodinny_stav_text":"Družka",
+    "pocet_predch_UPT":2,
+    "pocet":28
+  },
+  {
+    "vzdelani_text":"Základní neukončené",
+    "rodinny_stav_text":"Nezjištěno",
+    "pocet_predch_UPT":0,
+    "pocet":229
+  },
+  {
+    "vzdelani_text":"Základní neukončené",
+    "rodinny_stav_text":"Nezjištěno",
+    "pocet_predch_UPT":1,
+    "pocet":58
+  },
+  {
+    "vzdelani_text":"Základní neukončené",
+    "rodinny_stav_text":"Nezjištěno",
+    "pocet_predch_UPT":2,
+    "pocet":45
+  },
+  {
+    "vzdelani_text":"Základní neukončené",
+    "rodinny_stav_text":"Ovdovělá",
+    "pocet_predch_UPT":0,
+    "pocet":90
+  },
+  {
+    "vzdelani_text":"Základní neukončené",
+    "rodinny_stav_text":"Ovdovělá",
+    "pocet_predch_UPT":1,
+    "pocet":63
+  },
+  {
+    "vzdelani_text":"Základní neukončené",
+    "rodinny_stav_text":"Ovdovělá",
+    "pocet_predch_UPT":2,
+    "pocet":72
+  },
+  {
+    "vzdelani_text":"Základní neukončené",
+    "rodinny_stav_text":"Rozvedená",
+    "pocet_predch_UPT":0,
+    "pocet":771
+  },
+  {
+    "vzdelani_text":"Základní neukončené",
+    "rodinny_stav_text":"Rozvedená",
+    "pocet_predch_UPT":1,
+    "pocet":628
+  },
+  {
+    "vzdelani_text":"Základní neukončené",
+    "rodinny_stav_text":"Rozvedená",
+    "pocet_predch_UPT":2,
+    "pocet":810
+  },
+  {
+    "vzdelani_text":"Základní neukončené",
+    "rodinny_stav_text":"Svobodná",
+    "pocet_predch_UPT":0,
+    "pocet":12211
+  },
+  {
+    "vzdelani_text":"Základní neukončené",
+    "rodinny_stav_text":"Svobodná",
+    "pocet_predch_UPT":1,
+    "pocet":2693
+  },
+  {
+    "vzdelani_text":"Základní neukončené",
+    "rodinny_stav_text":"Svobodná",
+    "pocet_predch_UPT":2,
+    "pocet":1988
+  },
+  {
+    "vzdelani_text":"Základní neukončené",
+    "rodinny_stav_text":"Vdaná",
+    "pocet_predch_UPT":0,
+    "pocet":4910
+  },
+  {
+    "vzdelani_text":"Základní neukončené",
+    "rodinny_stav_text":"Vdaná",
+    "pocet_predch_UPT":1,
+    "pocet":2506
+  },
+  {
+    "vzdelani_text":"Základní neukončené",
+    "rodinny_stav_text":"Vdaná",
+    "pocet_predch_UPT":2,
+    "pocet":2637
+  },
+  {
+    "vzdelani_text":"Základní ukončené",
+    "rodinny_stav_text":"Družka",
+    "pocet_predch_UPT":0,
+    "pocet":351
+  },
+  {
+    "vzdelani_text":"Základní ukončené",
+    "rodinny_stav_text":"Družka",
+    "pocet_predch_UPT":1,
+    "pocet":211
+  },
+  {
+    "vzdelani_text":"Základní ukončené",
+    "rodinny_stav_text":"Družka",
+    "pocet_predch_UPT":2,
+    "pocet":226
+  },
+  {
+    "vzdelani_text":"Základní ukončené",
+    "rodinny_stav_text":"Nezjištěno",
+    "pocet_predch_UPT":0,
+    "pocet":992
+  },
+  {
+    "vzdelani_text":"Základní ukončené",
+    "rodinny_stav_text":"Nezjištěno",
+    "pocet_predch_UPT":1,
+    "pocet":255
+  },
+  {
+    "vzdelani_text":"Základní ukončené",
+    "rodinny_stav_text":"Nezjištěno",
+    "pocet_predch_UPT":2,
+    "pocet":239
+  },
+  {
+    "vzdelani_text":"Základní ukončené",
+    "rodinny_stav_text":"Ovdovělá",
+    "pocet_predch_UPT":0,
+    "pocet":448
+  },
+  {
+    "vzdelani_text":"Základní ukončené",
+    "rodinny_stav_text":"Ovdovělá",
+    "pocet_predch_UPT":1,
+    "pocet":370
+  },
+  {
+    "vzdelani_text":"Základní ukončené",
+    "rodinny_stav_text":"Ovdovělá",
+    "pocet_predch_UPT":2,
+    "pocet":468
+  },
+  {
+    "vzdelani_text":"Základní ukončené",
+    "rodinny_stav_text":"Rozvedená",
+    "pocet_predch_UPT":0,
+    "pocet":5998
+  },
+  {
+    "vzdelani_text":"Základní ukončené",
+    "rodinny_stav_text":"Rozvedená",
+    "pocet_predch_UPT":1,
+    "pocet":5195
+  },
+  {
+    "vzdelani_text":"Základní ukončené",
+    "rodinny_stav_text":"Rozvedená",
+    "pocet_predch_UPT":2,
+    "pocet":6799
+  },
+  {
+    "vzdelani_text":"Základní ukončené",
+    "rodinny_stav_text":"Svobodná",
+    "pocet_predch_UPT":0,
+    "pocet":81701
+  },
+  {
+    "vzdelani_text":"Základní ukončené",
+    "rodinny_stav_text":"Svobodná",
+    "pocet_predch_UPT":1,
+    "pocet":22548
+  },
+  {
+    "vzdelani_text":"Základní ukončené",
+    "rodinny_stav_text":"Svobodná",
+    "pocet_predch_UPT":2,
+    "pocet":16023
+  },
+  {
+    "vzdelani_text":"Základní ukončené",
+    "rodinny_stav_text":"Vdaná",
+    "pocet_predch_UPT":0,
+    "pocet":32921
+  },
+  {
+    "vzdelani_text":"Základní ukončené",
+    "rodinny_stav_text":"Vdaná",
+    "pocet_predch_UPT":1,
+    "pocet":18168
+  },
+  {
+    "vzdelani_text":"Základní ukončené",
+    "rodinny_stav_text":"Vdaná",
+    "pocet_predch_UPT":2,
+    "pocet":18895
+  },
+  {
+    "vzdelani_text":"Úplné střední odborné",
+    "rodinny_stav_text":"Družka",
+    "pocet_predch_UPT":0,
+    "pocet":343
+  },
+  {
+    "vzdelani_text":"Úplné střední odborné",
+    "rodinny_stav_text":"Družka",
+    "pocet_predch_UPT":1,
+    "pocet":133
+  },
+  {
+    "vzdelani_text":"Úplné střední odborné",
+    "rodinny_stav_text":"Družka",
+    "pocet_predch_UPT":2,
+    "pocet":64
+  },
+  {
+    "vzdelani_text":"Úplné střední odborné",
+    "rodinny_stav_text":"Nezjištěno",
+    "pocet_predch_UPT":0,
+    "pocet":1685
+  },
+  {
+    "vzdelani_text":"Úplné střední odborné",
+    "rodinny_stav_text":"Nezjištěno",
+    "pocet_predch_UPT":1,
+    "pocet":377
+  },
+  {
+    "vzdelani_text":"Úplné střední odborné",
+    "rodinny_stav_text":"Nezjištěno",
+    "pocet_predch_UPT":2,
+    "pocet":150
+  },
+  {
+    "vzdelani_text":"Úplné střední odborné",
+    "rodinny_stav_text":"Ovdovělá",
+    "pocet_predch_UPT":0,
+    "pocet":810
+  },
+  {
+    "vzdelani_text":"Úplné střední odborné",
+    "rodinny_stav_text":"Ovdovělá",
+    "pocet_predch_UPT":1,
+    "pocet":525
+  },
+  {
+    "vzdelani_text":"Úplné střední odborné",
+    "rodinny_stav_text":"Ovdovělá",
+    "pocet_predch_UPT":2,
+    "pocet":398
+  },
+  {
+    "vzdelani_text":"Úplné střední odborné",
+    "rodinny_stav_text":"Rozvedená",
+    "pocet_predch_UPT":0,
+    "pocet":14819
+  },
+  {
+    "vzdelani_text":"Úplné střední odborné",
+    "rodinny_stav_text":"Rozvedená",
+    "pocet_predch_UPT":1,
+    "pocet":9929
+  },
+  {
+    "vzdelani_text":"Úplné střední odborné",
+    "rodinny_stav_text":"Rozvedená",
+    "pocet_predch_UPT":2,
+    "pocet":7104
+  },
+  {
+    "vzdelani_text":"Úplné střední odborné",
+    "rodinny_stav_text":"Svobodná",
+    "pocet_predch_UPT":0,
+    "pocet":72462
+  },
+  {
+    "vzdelani_text":"Úplné střední odborné",
+    "rodinny_stav_text":"Svobodná",
+    "pocet_predch_UPT":1,
+    "pocet":16462
+  },
+  {
+    "vzdelani_text":"Úplné střední odborné",
+    "rodinny_stav_text":"Svobodná",
+    "pocet_predch_UPT":2,
+    "pocet":5538
+  },
+  {
+    "vzdelani_text":"Úplné střední odborné",
+    "rodinny_stav_text":"Vdaná",
+    "pocet_predch_UPT":0,
+    "pocet":97370
+  },
+  {
+    "vzdelani_text":"Úplné střední odborné",
+    "rodinny_stav_text":"Vdaná",
+    "pocet_predch_UPT":1,
+    "pocet":36042
+  },
+  {
+    "vzdelani_text":"Úplné střední odborné",
+    "rodinny_stav_text":"Vdaná",
+    "pocet_predch_UPT":2,
+    "pocet":19584
+  },
+  {
+    "vzdelani_text":"Úplné střední všeobecné",
+    "rodinny_stav_text":"Družka",
+    "pocet_predch_UPT":0,
+    "pocet":143
+  },
+  {
+    "vzdelani_text":"Úplné střední všeobecné",
+    "rodinny_stav_text":"Družka",
+    "pocet_predch_UPT":1,
+    "pocet":35
+  },
+  {
+    "vzdelani_text":"Úplné střední všeobecné",
+    "rodinny_stav_text":"Družka",
+    "pocet_predch_UPT":2,
+    "pocet":26
+  },
+  {
+    "vzdelani_text":"Úplné střední všeobecné",
+    "rodinny_stav_text":"Nezjištěno",
+    "pocet_predch_UPT":0,
+    "pocet":1022
+  },
+  {
+    "vzdelani_text":"Úplné střední všeobecné",
+    "rodinny_stav_text":"Nezjištěno",
+    "pocet_predch_UPT":1,
+    "pocet":228
+  },
+  {
+    "vzdelani_text":"Úplné střední všeobecné",
+    "rodinny_stav_text":"Nezjištěno",
+    "pocet_predch_UPT":2,
+    "pocet":77
+  },
+  {
+    "vzdelani_text":"Úplné střední všeobecné",
+    "rodinny_stav_text":"Ovdovělá",
+    "pocet_predch_UPT":0,
+    "pocet":352
+  },
+  {
+    "vzdelani_text":"Úplné střední všeobecné",
+    "rodinny_stav_text":"Ovdovělá",
+    "pocet_predch_UPT":1,
+    "pocet":199
+  },
+  {
+    "vzdelani_text":"Úplné střední všeobecné",
+    "rodinny_stav_text":"Ovdovělá",
+    "pocet_predch_UPT":2,
+    "pocet":136
+  },
+  {
+    "vzdelani_text":"Úplné střední všeobecné",
+    "rodinny_stav_text":"Rozvedená",
+    "pocet_predch_UPT":0,
+    "pocet":6378
+  },
+  {
+    "vzdelani_text":"Úplné střední všeobecné",
+    "rodinny_stav_text":"Rozvedená",
+    "pocet_predch_UPT":1,
+    "pocet":3883
+  },
+  {
+    "vzdelani_text":"Úplné střední všeobecné",
+    "rodinny_stav_text":"Rozvedená",
+    "pocet_predch_UPT":2,
+    "pocet":2703
+  },
+  {
+    "vzdelani_text":"Úplné střední všeobecné",
+    "rodinny_stav_text":"Svobodná",
+    "pocet_predch_UPT":0,
+    "pocet":38624
+  },
+  {
+    "vzdelani_text":"Úplné střední všeobecné",
+    "rodinny_stav_text":"Svobodná",
+    "pocet_predch_UPT":1,
+    "pocet":7541
+  },
+  {
+    "vzdelani_text":"Úplné střední všeobecné",
+    "rodinny_stav_text":"Svobodná",
+    "pocet_predch_UPT":2,
+    "pocet":2199
+  },
+  {
+    "vzdelani_text":"Úplné střední všeobecné",
+    "rodinny_stav_text":"Vdaná",
+    "pocet_predch_UPT":0,
+    "pocet":42388
+  },
+  {
+    "vzdelani_text":"Úplné střední všeobecné",
+    "rodinny_stav_text":"Vdaná",
+    "pocet_predch_UPT":1,
+    "pocet":14635
+  },
+  {
+    "vzdelani_text":"Úplné střední všeobecné",
+    "rodinny_stav_text":"Vdaná",
+    "pocet_predch_UPT":2,
+    "pocet":7387
+  }
+]

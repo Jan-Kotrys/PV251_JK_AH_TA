@@ -1,0 +1,3310 @@
+{
+  "CZ010": {
+    "1994": {
+      "celkem": 8103,
+      "upt": 0,
+      "spontanni": 921,
+      "ostatni": 86,
+      "ratio_upt_spont": 0.0
+    },
+    "1995": {
+      "celkem": 7093,
+      "upt": 0,
+      "spontanni": 750,
+      "ostatni": 103,
+      "ratio_upt_spont": 0.0
+    },
+    "1996": {
+      "celkem": 6883,
+      "upt": 0,
+      "spontanni": 677,
+      "ostatni": 80,
+      "ratio_upt_spont": 0.0
+    },
+    "1997": {
+      "celkem": 6330,
+      "upt": 0,
+      "spontanni": 720,
+      "ostatni": 78,
+      "ratio_upt_spont": 0.0
+    },
+    "1998": {
+      "celkem": 6116,
+      "upt": 0,
+      "spontanni": 790,
+      "ostatni": 97,
+      "ratio_upt_spont": 0.0
+    },
+    "1999": {
+      "celkem": 5506,
+      "upt": 0,
+      "spontanni": 733,
+      "ostatni": 101,
+      "ratio_upt_spont": 0.0
+    },
+    "2000": {
+      "celkem": 5174,
+      "upt": 0,
+      "spontanni": 878,
+      "ostatni": 89,
+      "ratio_upt_spont": 0.0
+    },
+    "2001": {
+      "celkem": 5007,
+      "upt": 0,
+      "spontanni": 821,
+      "ostatni": 111,
+      "ratio_upt_spont": 0.0
+    },
+    "2002": {
+      "celkem": 4929,
+      "upt": 0,
+      "spontanni": 835,
+      "ostatni": 108,
+      "ratio_upt_spont": 0.0
+    },
+    "2003": {
+      "celkem": 4688,
+      "upt": 0,
+      "spontanni": 891,
+      "ostatni": 96,
+      "ratio_upt_spont": 0.0
+    },
+    "2004": {
+      "celkem": 4504,
+      "upt": 0,
+      "spontanni": 967,
+      "ostatni": 92,
+      "ratio_upt_spont": 0.0
+    },
+    "2005": {
+      "celkem": 4507,
+      "upt": 0,
+      "spontanni": 1002,
+      "ostatni": 110,
+      "ratio_upt_spont": 0.0
+    },
+    "2006": {
+      "celkem": 4293,
+      "upt": 0,
+      "spontanni": 1023,
+      "ostatni": 75,
+      "ratio_upt_spont": 0.0
+    },
+    "2007": {
+      "celkem": 4408,
+      "upt": 0,
+      "spontanni": 1127,
+      "ostatni": 66,
+      "ratio_upt_spont": 0.0
+    },
+    "2008": {
+      "celkem": 4694,
+      "upt": 0,
+      "spontanni": 1257,
+      "ostatni": 97,
+      "ratio_upt_spont": 0.0
+    },
+    "2009": {
+      "celkem": 4532,
+      "upt": 0,
+      "spontanni": 1334,
+      "ostatni": 88,
+      "ratio_upt_spont": 0.0
+    },
+    "2010": {
+      "celkem": 4427,
+      "upt": 0,
+      "spontanni": 1362,
+      "ostatni": 81,
+      "ratio_upt_spont": 0.0
+    },
+    "2011": {
+      "celkem": 4431,
+      "upt": 0,
+      "spontanni": 1292,
+      "ostatni": 88,
+      "ratio_upt_spont": 0.0
+    },
+    "2012": {
+      "celkem": 4171,
+      "upt": 0,
+      "spontanni": 1211,
+      "ostatni": 69,
+      "ratio_upt_spont": 0.0
+    },
+    "2013": {
+      "celkem": 4239,
+      "upt": 0,
+      "spontanni": 1329,
+      "ostatni": 88,
+      "ratio_upt_spont": 0.0
+    },
+    "2014": {
+      "celkem": 4074,
+      "upt": 0,
+      "spontanni": 1376,
+      "ostatni": 78,
+      "ratio_upt_spont": 0.0
+    },
+    "2015": {
+      "celkem": 3880,
+      "upt": 0,
+      "spontanni": 1400,
+      "ostatni": 110,
+      "ratio_upt_spont": 0.0
+    },
+    "2016": {
+      "celkem": 4490,
+      "upt": 0,
+      "spontanni": 1726,
+      "ostatni": 124,
+      "ratio_upt_spont": 0.0
+    },
+    "2017": {
+      "celkem": 4233,
+      "upt": 0,
+      "spontanni": 1632,
+      "ostatni": 172,
+      "ratio_upt_spont": 0.0
+    },
+    "2018": {
+      "celkem": 4106,
+      "upt": 0,
+      "spontanni": 1597,
+      "ostatni": 166,
+      "ratio_upt_spont": 0.0
+    },
+    "2019": {
+      "celkem": 3671,
+      "upt": 0,
+      "spontanni": 1421,
+      "ostatni": 182,
+      "ratio_upt_spont": 0.0
+    },
+    "2020": {
+      "celkem": 3591,
+      "upt": 0,
+      "spontanni": 1422,
+      "ostatni": 162,
+      "ratio_upt_spont": 0.0
+    },
+    "2021": {
+      "celkem": 3262,
+      "upt": 0,
+      "spontanni": 1277,
+      "ostatni": 184,
+      "ratio_upt_spont": 0.0
+    },
+    "2022": {
+      "celkem": 3263,
+      "upt": 0,
+      "spontanni": 1183,
+      "ostatni": 155,
+      "ratio_upt_spont": 0.0
+    },
+    "2023": {
+      "celkem": 2833,
+      "upt": 0,
+      "spontanni": 998,
+      "ostatni": 122,
+      "ratio_upt_spont": 0.0
+    },
+    "2024": {
+      "celkem": 2572,
+      "upt": 0,
+      "spontanni": 952,
+      "ostatni": 93,
+      "ratio_upt_spont": 0.0
+    },
+    "2025": {
+      "celkem": 2778,
+      "upt": 0,
+      "spontanni": 965,
+      "ostatni": 114,
+      "ratio_upt_spont": 0.0
+    }
+  },
+  "CZ020": {
+    "1994": {
+      "celkem": 6933,
+      "upt": 0,
+      "spontanni": 971,
+      "ostatni": 121,
+      "ratio_upt_spont": 0.0
+    },
+    "1995": {
+      "celkem": 6235,
+      "upt": 0,
+      "spontanni": 891,
+      "ostatni": 116,
+      "ratio_upt_spont": 0.0
+    },
+    "1996": {
+      "celkem": 6011,
+      "upt": 0,
+      "spontanni": 870,
+      "ostatni": 138,
+      "ratio_upt_spont": 0.0
+    },
+    "1997": {
+      "celkem": 5938,
+      "upt": 0,
+      "spontanni": 897,
+      "ostatni": 147,
+      "ratio_upt_spont": 0.0
+    },
+    "1998": {
+      "celkem": 5635,
+      "upt": 0,
+      "spontanni": 966,
+      "ostatni": 153,
+      "ratio_upt_spont": 0.0
+    },
+    "1999": {
+      "celkem": 5551,
+      "upt": 0,
+      "spontanni": 1064,
+      "ostatni": 143,
+      "ratio_upt_spont": 0.0
+    },
+    "2000": {
+      "celkem": 5119,
+      "upt": 0,
+      "spontanni": 1071,
+      "ostatni": 150,
+      "ratio_upt_spont": 0.0
+    },
+    "2001": {
+      "celkem": 4769,
+      "upt": 0,
+      "spontanni": 1016,
+      "ostatni": 134,
+      "ratio_upt_spont": 0.0
+    },
+    "2002": {
+      "celkem": 4683,
+      "upt": 0,
+      "spontanni": 1106,
+      "ostatni": 129,
+      "ratio_upt_spont": 0.0
+    },
+    "2003": {
+      "celkem": 4551,
+      "upt": 0,
+      "spontanni": 1161,
+      "ostatni": 150,
+      "ratio_upt_spont": 0.0
+    },
+    "2004": {
+      "celkem": 4718,
+      "upt": 0,
+      "spontanni": 1335,
+      "ostatni": 165,
+      "ratio_upt_spont": 0.0
+    },
+    "2005": {
+      "celkem": 4518,
+      "upt": 0,
+      "spontanni": 1306,
+      "ostatni": 168,
+      "ratio_upt_spont": 0.0
+    },
+    "2006": {
+      "celkem": 4654,
+      "upt": 0,
+      "spontanni": 1486,
+      "ostatni": 153,
+      "ratio_upt_spont": 0.0
+    },
+    "2007": {
+      "celkem": 4706,
+      "upt": 0,
+      "spontanni": 1592,
+      "ostatni": 169,
+      "ratio_upt_spont": 0.0
+    },
+    "2008": {
+      "celkem": 4992,
+      "upt": 0,
+      "spontanni": 1664,
+      "ostatni": 146,
+      "ratio_upt_spont": 0.0
+    },
+    "2009": {
+      "celkem": 5194,
+      "upt": 0,
+      "spontanni": 1691,
+      "ostatni": 150,
+      "ratio_upt_spont": 0.0
+    },
+    "2010": {
+      "celkem": 4878,
+      "upt": 0,
+      "spontanni": 1628,
+      "ostatni": 165,
+      "ratio_upt_spont": 0.0
+    },
+    "2011": {
+      "celkem": 4957,
+      "upt": 0,
+      "spontanni": 1590,
+      "ostatni": 134,
+      "ratio_upt_spont": 0.0
+    },
+    "2012": {
+      "celkem": 4861,
+      "upt": 0,
+      "spontanni": 1665,
+      "ostatni": 141,
+      "ratio_upt_spont": 0.0
+    },
+    "2013": {
+      "celkem": 5038,
+      "upt": 0,
+      "spontanni": 1808,
+      "ostatni": 158,
+      "ratio_upt_spont": 0.0
+    },
+    "2014": {
+      "celkem": 4839,
+      "upt": 0,
+      "spontanni": 1710,
+      "ostatni": 164,
+      "ratio_upt_spont": 0.0
+    },
+    "2015": {
+      "celkem": 4641,
+      "upt": 0,
+      "spontanni": 1684,
+      "ostatni": 175,
+      "ratio_upt_spont": 0.0
+    },
+    "2016": {
+      "celkem": 4772,
+      "upt": 0,
+      "spontanni": 1799,
+      "ostatni": 181,
+      "ratio_upt_spont": 0.0
+    },
+    "2017": {
+      "celkem": 4541,
+      "upt": 0,
+      "spontanni": 1669,
+      "ostatni": 185,
+      "ratio_upt_spont": 0.0
+    },
+    "2018": {
+      "celkem": 4236,
+      "upt": 0,
+      "spontanni": 1575,
+      "ostatni": 195,
+      "ratio_upt_spont": 0.0
+    },
+    "2019": {
+      "celkem": 4012,
+      "upt": 0,
+      "spontanni": 1452,
+      "ostatni": 180,
+      "ratio_upt_spont": 0.0
+    },
+    "2020": {
+      "celkem": 3979,
+      "upt": 0,
+      "spontanni": 1521,
+      "ostatni": 197,
+      "ratio_upt_spont": 0.0
+    },
+    "2021": {
+      "celkem": 3774,
+      "upt": 0,
+      "spontanni": 1393,
+      "ostatni": 182,
+      "ratio_upt_spont": 0.0
+    },
+    "2022": {
+      "celkem": 3625,
+      "upt": 0,
+      "spontanni": 1208,
+      "ostatni": 180,
+      "ratio_upt_spont": 0.0
+    },
+    "2023": {
+      "celkem": 3238,
+      "upt": 0,
+      "spontanni": 1208,
+      "ostatni": 118,
+      "ratio_upt_spont": 0.0
+    },
+    "2024": {
+      "celkem": 3201,
+      "upt": 0,
+      "spontanni": 1148,
+      "ostatni": 127,
+      "ratio_upt_spont": 0.0
+    },
+    "2025": {
+      "celkem": 3125,
+      "upt": 0,
+      "spontanni": 1043,
+      "ostatni": 127,
+      "ratio_upt_spont": 0.0
+    }
+  },
+  "CZ031": {
+    "1994": {
+      "celkem": 4117,
+      "upt": 0,
+      "spontanni": 745,
+      "ostatni": 97,
+      "ratio_upt_spont": 0.0
+    },
+    "1995": {
+      "celkem": 3742,
+      "upt": 0,
+      "spontanni": 680,
+      "ostatni": 111,
+      "ratio_upt_spont": 0.0
+    },
+    "1996": {
+      "celkem": 3748,
+      "upt": 0,
+      "spontanni": 722,
+      "ostatni": 112,
+      "ratio_upt_spont": 0.0
+    },
+    "1997": {
+      "celkem": 3505,
+      "upt": 0,
+      "spontanni": 704,
+      "ostatni": 97,
+      "ratio_upt_spont": 0.0
+    },
+    "1998": {
+      "celkem": 3481,
+      "upt": 0,
+      "spontanni": 737,
+      "ostatni": 119,
+      "ratio_upt_spont": 0.0
+    },
+    "1999": {
+      "celkem": 3137,
+      "upt": 0,
+      "spontanni": 695,
+      "ostatni": 127,
+      "ratio_upt_spont": 0.0
+    },
+    "2000": {
+      "celkem": 2870,
+      "upt": 0,
+      "spontanni": 679,
+      "ostatni": 94,
+      "ratio_upt_spont": 0.0
+    },
+    "2001": {
+      "celkem": 2880,
+      "upt": 0,
+      "spontanni": 699,
+      "ostatni": 105,
+      "ratio_upt_spont": 0.0
+    },
+    "2002": {
+      "celkem": 2739,
+      "upt": 0,
+      "spontanni": 754,
+      "ostatni": 84,
+      "ratio_upt_spont": 0.0
+    },
+    "2003": {
+      "celkem": 2568,
+      "upt": 0,
+      "spontanni": 774,
+      "ostatni": 70,
+      "ratio_upt_spont": 0.0
+    },
+    "2004": {
+      "celkem": 2435,
+      "upt": 0,
+      "spontanni": 752,
+      "ostatni": 95,
+      "ratio_upt_spont": 0.0
+    },
+    "2005": {
+      "celkem": 2294,
+      "upt": 0,
+      "spontanni": 655,
+      "ostatni": 69,
+      "ratio_upt_spont": 0.0
+    },
+    "2006": {
+      "celkem": 2292,
+      "upt": 0,
+      "spontanni": 745,
+      "ostatni": 79,
+      "ratio_upt_spont": 0.0
+    },
+    "2007": {
+      "celkem": 2327,
+      "upt": 0,
+      "spontanni": 816,
+      "ostatni": 80,
+      "ratio_upt_spont": 0.0
+    },
+    "2008": {
+      "celkem": 2296,
+      "upt": 0,
+      "spontanni": 848,
+      "ostatni": 59,
+      "ratio_upt_spont": 0.0
+    },
+    "2009": {
+      "celkem": 2371,
+      "upt": 0,
+      "spontanni": 917,
+      "ostatni": 87,
+      "ratio_upt_spont": 0.0
+    },
+    "2010": {
+      "celkem": 2323,
+      "upt": 0,
+      "spontanni": 904,
+      "ostatni": 71,
+      "ratio_upt_spont": 0.0
+    },
+    "2011": {
+      "celkem": 2436,
+      "upt": 0,
+      "spontanni": 907,
+      "ostatni": 92,
+      "ratio_upt_spont": 0.0
+    },
+    "2012": {
+      "celkem": 2419,
+      "upt": 0,
+      "spontanni": 936,
+      "ostatni": 84,
+      "ratio_upt_spont": 0.0
+    },
+    "2013": {
+      "celkem": 2323,
+      "upt": 0,
+      "spontanni": 873,
+      "ostatni": 79,
+      "ratio_upt_spont": 0.0
+    },
+    "2014": {
+      "celkem": 2315,
+      "upt": 0,
+      "spontanni": 893,
+      "ostatni": 79,
+      "ratio_upt_spont": 0.0
+    },
+    "2015": {
+      "celkem": 2252,
+      "upt": 0,
+      "spontanni": 892,
+      "ostatni": 97,
+      "ratio_upt_spont": 0.0
+    },
+    "2016": {
+      "celkem": 2381,
+      "upt": 0,
+      "spontanni": 793,
+      "ostatni": 95,
+      "ratio_upt_spont": 0.0
+    },
+    "2017": {
+      "celkem": 2131,
+      "upt": 0,
+      "spontanni": 868,
+      "ostatni": 98,
+      "ratio_upt_spont": 0.0
+    },
+    "2018": {
+      "celkem": 2167,
+      "upt": 0,
+      "spontanni": 863,
+      "ostatni": 125,
+      "ratio_upt_spont": 0.0
+    },
+    "2019": {
+      "celkem": 1999,
+      "upt": 0,
+      "spontanni": 753,
+      "ostatni": 102,
+      "ratio_upt_spont": 0.0
+    },
+    "2020": {
+      "celkem": 1958,
+      "upt": 0,
+      "spontanni": 790,
+      "ostatni": 95,
+      "ratio_upt_spont": 0.0
+    },
+    "2021": {
+      "celkem": 1866,
+      "upt": 0,
+      "spontanni": 764,
+      "ostatni": 105,
+      "ratio_upt_spont": 0.0
+    },
+    "2022": {
+      "celkem": 1783,
+      "upt": 0,
+      "spontanni": 642,
+      "ostatni": 103,
+      "ratio_upt_spont": 0.0
+    },
+    "2023": {
+      "celkem": 1642,
+      "upt": 0,
+      "spontanni": 611,
+      "ostatni": 70,
+      "ratio_upt_spont": 0.0
+    },
+    "2024": {
+      "celkem": 1556,
+      "upt": 0,
+      "spontanni": 542,
+      "ostatni": 73,
+      "ratio_upt_spont": 0.0
+    },
+    "2025": {
+      "celkem": 1452,
+      "upt": 0,
+      "spontanni": 494,
+      "ostatni": 51,
+      "ratio_upt_spont": 0.0
+    }
+  },
+  "CZ032": {
+    "1994": {
+      "celkem": 3757,
+      "upt": 0,
+      "spontanni": 636,
+      "ostatni": 107,
+      "ratio_upt_spont": 0.0
+    },
+    "1995": {
+      "celkem": 3560,
+      "upt": 0,
+      "spontanni": 620,
+      "ostatni": 78,
+      "ratio_upt_spont": 0.0
+    },
+    "1996": {
+      "celkem": 3484,
+      "upt": 0,
+      "spontanni": 600,
+      "ostatni": 122,
+      "ratio_upt_spont": 0.0
+    },
+    "1997": {
+      "celkem": 3322,
+      "upt": 0,
+      "spontanni": 616,
+      "ostatni": 108,
+      "ratio_upt_spont": 0.0
+    },
+    "1998": {
+      "celkem": 3172,
+      "upt": 0,
+      "spontanni": 627,
+      "ostatni": 106,
+      "ratio_upt_spont": 0.0
+    },
+    "1999": {
+      "celkem": 3133,
+      "upt": 0,
+      "spontanni": 638,
+      "ostatni": 137,
+      "ratio_upt_spont": 0.0
+    },
+    "2000": {
+      "celkem": 2800,
+      "upt": 0,
+      "spontanni": 673,
+      "ostatni": 120,
+      "ratio_upt_spont": 0.0
+    },
+    "2001": {
+      "celkem": 2729,
+      "upt": 0,
+      "spontanni": 632,
+      "ostatni": 107,
+      "ratio_upt_spont": 0.0
+    },
+    "2002": {
+      "celkem": 2605,
+      "upt": 0,
+      "spontanni": 616,
+      "ostatni": 93,
+      "ratio_upt_spont": 0.0
+    },
+    "2003": {
+      "celkem": 2582,
+      "upt": 0,
+      "spontanni": 731,
+      "ostatni": 117,
+      "ratio_upt_spont": 0.0
+    },
+    "2004": {
+      "celkem": 2694,
+      "upt": 0,
+      "spontanni": 855,
+      "ostatni": 116,
+      "ratio_upt_spont": 0.0
+    },
+    "2005": {
+      "celkem": 2553,
+      "upt": 0,
+      "spontanni": 833,
+      "ostatni": 113,
+      "ratio_upt_spont": 0.0
+    },
+    "2006": {
+      "celkem": 2425,
+      "upt": 0,
+      "spontanni": 890,
+      "ostatni": 107,
+      "ratio_upt_spont": 0.0
+    },
+    "2007": {
+      "celkem": 2629,
+      "upt": 0,
+      "spontanni": 1005,
+      "ostatni": 128,
+      "ratio_upt_spont": 0.0
+    },
+    "2008": {
+      "celkem": 2617,
+      "upt": 0,
+      "spontanni": 976,
+      "ostatni": 121,
+      "ratio_upt_spont": 0.0
+    },
+    "2009": {
+      "celkem": 2458,
+      "upt": 0,
+      "spontanni": 961,
+      "ostatni": 101,
+      "ratio_upt_spont": 0.0
+    },
+    "2010": {
+      "celkem": 2423,
+      "upt": 0,
+      "spontanni": 962,
+      "ostatni": 120,
+      "ratio_upt_spont": 0.0
+    },
+    "2011": {
+      "celkem": 2387,
+      "upt": 0,
+      "spontanni": 948,
+      "ostatni": 92,
+      "ratio_upt_spont": 0.0
+    },
+    "2012": {
+      "celkem": 2405,
+      "upt": 0,
+      "spontanni": 960,
+      "ostatni": 113,
+      "ratio_upt_spont": 0.0
+    },
+    "2013": {
+      "celkem": 2279,
+      "upt": 0,
+      "spontanni": 934,
+      "ostatni": 103,
+      "ratio_upt_spont": 0.0
+    },
+    "2014": {
+      "celkem": 2312,
+      "upt": 0,
+      "spontanni": 994,
+      "ostatni": 95,
+      "ratio_upt_spont": 0.0
+    },
+    "2015": {
+      "celkem": 2025,
+      "upt": 0,
+      "spontanni": 1013,
+      "ostatni": 85,
+      "ratio_upt_spont": 0.0
+    },
+    "2016": {
+      "celkem": 1850,
+      "upt": 0,
+      "spontanni": 873,
+      "ostatni": 74,
+      "ratio_upt_spont": 0.0
+    },
+    "2017": {
+      "celkem": 1993,
+      "upt": 0,
+      "spontanni": 940,
+      "ostatni": 86,
+      "ratio_upt_spont": 0.0
+    },
+    "2018": {
+      "celkem": 1663,
+      "upt": 0,
+      "spontanni": 771,
+      "ostatni": 33,
+      "ratio_upt_spont": 0.0
+    },
+    "2019": {
+      "celkem": 1714,
+      "upt": 0,
+      "spontanni": 882,
+      "ostatni": 24,
+      "ratio_upt_spont": 0.0
+    },
+    "2020": {
+      "celkem": 1512,
+      "upt": 0,
+      "spontanni": 781,
+      "ostatni": 75,
+      "ratio_upt_spont": 0.0
+    },
+    "2021": {
+      "celkem": 1354,
+      "upt": 0,
+      "spontanni": 693,
+      "ostatni": 96,
+      "ratio_upt_spont": 0.0
+    },
+    "2022": {
+      "celkem": 1370,
+      "upt": 0,
+      "spontanni": 589,
+      "ostatni": 78,
+      "ratio_upt_spont": 0.0
+    },
+    "2023": {
+      "celkem": 1162,
+      "upt": 0,
+      "spontanni": 440,
+      "ostatni": 32,
+      "ratio_upt_spont": 0.0
+    },
+    "2024": {
+      "celkem": 1172,
+      "upt": 0,
+      "spontanni": 441,
+      "ostatni": 12,
+      "ratio_upt_spont": 0.0
+    },
+    "2025": {
+      "celkem": 1117,
+      "upt": 0,
+      "spontanni": 339,
+      "ostatni": 19,
+      "ratio_upt_spont": 0.0
+    }
+  },
+  "CZ041": {
+    "1994": {
+      "celkem": 2473,
+      "upt": 0,
+      "spontanni": 382,
+      "ostatni": 52,
+      "ratio_upt_spont": 0.0
+    },
+    "1995": {
+      "celkem": 2277,
+      "upt": 0,
+      "spontanni": 368,
+      "ostatni": 44,
+      "ratio_upt_spont": 0.0
+    },
+    "1996": {
+      "celkem": 2251,
+      "upt": 0,
+      "spontanni": 337,
+      "ostatni": 39,
+      "ratio_upt_spont": 0.0
+    },
+    "1997": {
+      "celkem": 2155,
+      "upt": 0,
+      "spontanni": 326,
+      "ostatni": 56,
+      "ratio_upt_spont": 0.0
+    },
+    "1998": {
+      "celkem": 2070,
+      "upt": 0,
+      "spontanni": 327,
+      "ostatni": 50,
+      "ratio_upt_spont": 0.0
+    },
+    "1999": {
+      "celkem": 2019,
+      "upt": 0,
+      "spontanni": 364,
+      "ostatni": 40,
+      "ratio_upt_spont": 0.0
+    },
+    "2000": {
+      "celkem": 2001,
+      "upt": 0,
+      "spontanni": 347,
+      "ostatni": 62,
+      "ratio_upt_spont": 0.0
+    },
+    "2001": {
+      "celkem": 1817,
+      "upt": 0,
+      "spontanni": 409,
+      "ostatni": 56,
+      "ratio_upt_spont": 0.0
+    },
+    "2002": {
+      "celkem": 1777,
+      "upt": 0,
+      "spontanni": 378,
+      "ostatni": 63,
+      "ratio_upt_spont": 0.0
+    },
+    "2003": {
+      "celkem": 1719,
+      "upt": 0,
+      "spontanni": 398,
+      "ostatni": 55,
+      "ratio_upt_spont": 0.0
+    },
+    "2004": {
+      "celkem": 1624,
+      "upt": 0,
+      "spontanni": 418,
+      "ostatni": 62,
+      "ratio_upt_spont": 0.0
+    },
+    "2005": {
+      "celkem": 1517,
+      "upt": 0,
+      "spontanni": 385,
+      "ostatni": 47,
+      "ratio_upt_spont": 0.0
+    },
+    "2006": {
+      "celkem": 1597,
+      "upt": 0,
+      "spontanni": 463,
+      "ostatni": 64,
+      "ratio_upt_spont": 0.0
+    },
+    "2007": {
+      "celkem": 1584,
+      "upt": 0,
+      "spontanni": 504,
+      "ostatni": 65,
+      "ratio_upt_spont": 0.0
+    },
+    "2008": {
+      "celkem": 1615,
+      "upt": 0,
+      "spontanni": 475,
+      "ostatni": 57,
+      "ratio_upt_spont": 0.0
+    },
+    "2009": {
+      "celkem": 1441,
+      "upt": 0,
+      "spontanni": 451,
+      "ostatni": 55,
+      "ratio_upt_spont": 0.0
+    },
+    "2010": {
+      "celkem": 1420,
+      "upt": 0,
+      "spontanni": 418,
+      "ostatni": 64,
+      "ratio_upt_spont": 0.0
+    },
+    "2011": {
+      "celkem": 1280,
+      "upt": 0,
+      "spontanni": 352,
+      "ostatni": 49,
+      "ratio_upt_spont": 0.0
+    },
+    "2012": {
+      "celkem": 1253,
+      "upt": 0,
+      "spontanni": 381,
+      "ostatni": 42,
+      "ratio_upt_spont": 0.0
+    },
+    "2013": {
+      "celkem": 1150,
+      "upt": 0,
+      "spontanni": 267,
+      "ostatni": 33,
+      "ratio_upt_spont": 0.0
+    },
+    "2014": {
+      "celkem": 1022,
+      "upt": 0,
+      "spontanni": 221,
+      "ostatni": 28,
+      "ratio_upt_spont": 0.0
+    },
+    "2015": {
+      "celkem": 1050,
+      "upt": 0,
+      "spontanni": 254,
+      "ostatni": 20,
+      "ratio_upt_spont": 0.0
+    },
+    "2016": {
+      "celkem": 1088,
+      "upt": 0,
+      "spontanni": 313,
+      "ostatni": 28,
+      "ratio_upt_spont": 0.0
+    },
+    "2017": {
+      "celkem": 993,
+      "upt": 0,
+      "spontanni": 273,
+      "ostatni": 41,
+      "ratio_upt_spont": 0.0
+    },
+    "2018": {
+      "celkem": 977,
+      "upt": 0,
+      "spontanni": 249,
+      "ostatni": 32,
+      "ratio_upt_spont": 0.0
+    },
+    "2019": {
+      "celkem": 978,
+      "upt": 0,
+      "spontanni": 278,
+      "ostatni": 33,
+      "ratio_upt_spont": 0.0
+    },
+    "2020": {
+      "celkem": 948,
+      "upt": 0,
+      "spontanni": 260,
+      "ostatni": 37,
+      "ratio_upt_spont": 0.0
+    },
+    "2021": {
+      "celkem": 859,
+      "upt": 0,
+      "spontanni": 237,
+      "ostatni": 36,
+      "ratio_upt_spont": 0.0
+    },
+    "2022": {
+      "celkem": 781,
+      "upt": 0,
+      "spontanni": 197,
+      "ostatni": 25,
+      "ratio_upt_spont": 0.0
+    },
+    "2023": {
+      "celkem": 721,
+      "upt": 0,
+      "spontanni": 167,
+      "ostatni": 25,
+      "ratio_upt_spont": 0.0
+    },
+    "2024": {
+      "celkem": 710,
+      "upt": 0,
+      "spontanni": 162,
+      "ostatni": 21,
+      "ratio_upt_spont": 0.0
+    },
+    "2025": {
+      "celkem": 710,
+      "upt": 0,
+      "spontanni": 163,
+      "ostatni": 25,
+      "ratio_upt_spont": 0.0
+    }
+  },
+  "CZ042": {
+    "1994": {
+      "celkem": 7018,
+      "upt": 0,
+      "spontanni": 1134,
+      "ostatni": 186,
+      "ratio_upt_spont": 0.0
+    },
+    "1995": {
+      "celkem": 6469,
+      "upt": 0,
+      "spontanni": 1020,
+      "ostatni": 198,
+      "ratio_upt_spont": 0.0
+    },
+    "1996": {
+      "celkem": 6211,
+      "upt": 0,
+      "spontanni": 1064,
+      "ostatni": 198,
+      "ratio_upt_spont": 0.0
+    },
+    "1997": {
+      "celkem": 5949,
+      "upt": 0,
+      "spontanni": 1044,
+      "ostatni": 217,
+      "ratio_upt_spont": 0.0
+    },
+    "1998": {
+      "celkem": 5861,
+      "upt": 0,
+      "spontanni": 1171,
+      "ostatni": 161,
+      "ratio_upt_spont": 0.0
+    },
+    "1999": {
+      "celkem": 5358,
+      "upt": 0,
+      "spontanni": 1109,
+      "ostatni": 191,
+      "ratio_upt_spont": 0.0
+    },
+    "2000": {
+      "celkem": 5104,
+      "upt": 0,
+      "spontanni": 1159,
+      "ostatni": 140,
+      "ratio_upt_spont": 0.0
+    },
+    "2001": {
+      "celkem": 4904,
+      "upt": 0,
+      "spontanni": 1169,
+      "ostatni": 181,
+      "ratio_upt_spont": 0.0
+    },
+    "2002": {
+      "celkem": 4751,
+      "upt": 0,
+      "spontanni": 1223,
+      "ostatni": 129,
+      "ratio_upt_spont": 0.0
+    },
+    "2003": {
+      "celkem": 4753,
+      "upt": 0,
+      "spontanni": 1183,
+      "ostatni": 165,
+      "ratio_upt_spont": 0.0
+    },
+    "2004": {
+      "celkem": 4672,
+      "upt": 0,
+      "spontanni": 1343,
+      "ostatni": 158,
+      "ratio_upt_spont": 0.0
+    },
+    "2005": {
+      "celkem": 4466,
+      "upt": 0,
+      "spontanni": 1406,
+      "ostatni": 153,
+      "ratio_upt_spont": 0.0
+    },
+    "2006": {
+      "celkem": 4504,
+      "upt": 0,
+      "spontanni": 1471,
+      "ostatni": 154,
+      "ratio_upt_spont": 0.0
+    },
+    "2007": {
+      "celkem": 4461,
+      "upt": 0,
+      "spontanni": 1456,
+      "ostatni": 154,
+      "ratio_upt_spont": 0.0
+    },
+    "2008": {
+      "celkem": 4631,
+      "upt": 0,
+      "spontanni": 1484,
+      "ostatni": 158,
+      "ratio_upt_spont": 0.0
+    },
+    "2009": {
+      "celkem": 4595,
+      "upt": 0,
+      "spontanni": 1563,
+      "ostatni": 131,
+      "ratio_upt_spont": 0.0
+    },
+    "2010": {
+      "celkem": 4329,
+      "upt": 0,
+      "spontanni": 1421,
+      "ostatni": 143,
+      "ratio_upt_spont": 0.0
+    },
+    "2011": {
+      "celkem": 4058,
+      "upt": 0,
+      "spontanni": 1280,
+      "ostatni": 98,
+      "ratio_upt_spont": 0.0
+    },
+    "2012": {
+      "celkem": 3819,
+      "upt": 0,
+      "spontanni": 1257,
+      "ostatni": 118,
+      "ratio_upt_spont": 0.0
+    },
+    "2013": {
+      "celkem": 3809,
+      "upt": 0,
+      "spontanni": 1235,
+      "ostatni": 126,
+      "ratio_upt_spont": 0.0
+    },
+    "2014": {
+      "celkem": 3746,
+      "upt": 0,
+      "spontanni": 1299,
+      "ostatni": 118,
+      "ratio_upt_spont": 0.0
+    },
+    "2015": {
+      "celkem": 3687,
+      "upt": 0,
+      "spontanni": 1267,
+      "ostatni": 126,
+      "ratio_upt_spont": 0.0
+    },
+    "2016": {
+      "celkem": 3614,
+      "upt": 0,
+      "spontanni": 1324,
+      "ostatni": 117,
+      "ratio_upt_spont": 0.0
+    },
+    "2017": {
+      "celkem": 3477,
+      "upt": 0,
+      "spontanni": 1253,
+      "ostatni": 106,
+      "ratio_upt_spont": 0.0
+    },
+    "2018": {
+      "celkem": 3321,
+      "upt": 0,
+      "spontanni": 1237,
+      "ostatni": 122,
+      "ratio_upt_spont": 0.0
+    },
+    "2019": {
+      "celkem": 3364,
+      "upt": 0,
+      "spontanni": 1244,
+      "ostatni": 114,
+      "ratio_upt_spont": 0.0
+    },
+    "2020": {
+      "celkem": 3319,
+      "upt": 0,
+      "spontanni": 1202,
+      "ostatni": 120,
+      "ratio_upt_spont": 0.0
+    },
+    "2021": {
+      "celkem": 2962,
+      "upt": 0,
+      "spontanni": 1018,
+      "ostatni": 126,
+      "ratio_upt_spont": 0.0
+    },
+    "2022": {
+      "celkem": 2856,
+      "upt": 0,
+      "spontanni": 947,
+      "ostatni": 113,
+      "ratio_upt_spont": 0.0
+    },
+    "2023": {
+      "celkem": 2565,
+      "upt": 0,
+      "spontanni": 834,
+      "ostatni": 60,
+      "ratio_upt_spont": 0.0
+    },
+    "2024": {
+      "celkem": 2486,
+      "upt": 0,
+      "spontanni": 666,
+      "ostatni": 75,
+      "ratio_upt_spont": 0.0
+    },
+    "2025": {
+      "celkem": 2433,
+      "upt": 0,
+      "spontanni": 668,
+      "ostatni": 71,
+      "ratio_upt_spont": 0.0
+    }
+  },
+  "CZ051": {
+    "1994": {
+      "celkem": 3317,
+      "upt": 0,
+      "spontanni": 460,
+      "ostatni": 99,
+      "ratio_upt_spont": 0.0
+    },
+    "1995": {
+      "celkem": 2922,
+      "upt": 0,
+      "spontanni": 452,
+      "ostatni": 83,
+      "ratio_upt_spont": 0.0
+    },
+    "1996": {
+      "celkem": 2889,
+      "upt": 0,
+      "spontanni": 415,
+      "ostatni": 76,
+      "ratio_upt_spont": 0.0
+    },
+    "1997": {
+      "celkem": 2840,
+      "upt": 0,
+      "spontanni": 450,
+      "ostatni": 78,
+      "ratio_upt_spont": 0.0
+    },
+    "1998": {
+      "celkem": 2826,
+      "upt": 0,
+      "spontanni": 477,
+      "ostatni": 76,
+      "ratio_upt_spont": 0.0
+    },
+    "1999": {
+      "celkem": 2610,
+      "upt": 0,
+      "spontanni": 473,
+      "ostatni": 84,
+      "ratio_upt_spont": 0.0
+    },
+    "2000": {
+      "celkem": 2400,
+      "upt": 0,
+      "spontanni": 518,
+      "ostatni": 96,
+      "ratio_upt_spont": 0.0
+    },
+    "2001": {
+      "celkem": 2299,
+      "upt": 0,
+      "spontanni": 564,
+      "ostatni": 73,
+      "ratio_upt_spont": 0.0
+    },
+    "2002": {
+      "celkem": 2217,
+      "upt": 0,
+      "spontanni": 592,
+      "ostatni": 73,
+      "ratio_upt_spont": 0.0
+    },
+    "2003": {
+      "celkem": 2127,
+      "upt": 0,
+      "spontanni": 624,
+      "ostatni": 74,
+      "ratio_upt_spont": 0.0
+    },
+    "2004": {
+      "celkem": 2090,
+      "upt": 0,
+      "spontanni": 653,
+      "ostatni": 75,
+      "ratio_upt_spont": 0.0
+    },
+    "2005": {
+      "celkem": 2030,
+      "upt": 0,
+      "spontanni": 627,
+      "ostatni": 80,
+      "ratio_upt_spont": 0.0
+    },
+    "2006": {
+      "celkem": 2022,
+      "upt": 0,
+      "spontanni": 693,
+      "ostatni": 74,
+      "ratio_upt_spont": 0.0
+    },
+    "2007": {
+      "celkem": 2008,
+      "upt": 0,
+      "spontanni": 695,
+      "ostatni": 73,
+      "ratio_upt_spont": 0.0
+    },
+    "2008": {
+      "celkem": 2092,
+      "upt": 0,
+      "spontanni": 771,
+      "ostatni": 75,
+      "ratio_upt_spont": 0.0
+    },
+    "2009": {
+      "celkem": 1995,
+      "upt": 0,
+      "spontanni": 708,
+      "ostatni": 64,
+      "ratio_upt_spont": 0.0
+    },
+    "2010": {
+      "celkem": 1942,
+      "upt": 0,
+      "spontanni": 666,
+      "ostatni": 70,
+      "ratio_upt_spont": 0.0
+    },
+    "2011": {
+      "celkem": 1962,
+      "upt": 0,
+      "spontanni": 689,
+      "ostatni": 58,
+      "ratio_upt_spont": 0.0
+    },
+    "2012": {
+      "celkem": 1939,
+      "upt": 0,
+      "spontanni": 705,
+      "ostatni": 55,
+      "ratio_upt_spont": 0.0
+    },
+    "2013": {
+      "celkem": 1843,
+      "upt": 0,
+      "spontanni": 659,
+      "ostatni": 58,
+      "ratio_upt_spont": 0.0
+    },
+    "2014": {
+      "celkem": 1929,
+      "upt": 0,
+      "spontanni": 713,
+      "ostatni": 51,
+      "ratio_upt_spont": 0.0
+    },
+    "2015": {
+      "celkem": 1880,
+      "upt": 0,
+      "spontanni": 720,
+      "ostatni": 54,
+      "ratio_upt_spont": 0.0
+    },
+    "2016": {
+      "celkem": 1845,
+      "upt": 0,
+      "spontanni": 666,
+      "ostatni": 58,
+      "ratio_upt_spont": 0.0
+    },
+    "2017": {
+      "celkem": 1663,
+      "upt": 0,
+      "spontanni": 628,
+      "ostatni": 60,
+      "ratio_upt_spont": 0.0
+    },
+    "2018": {
+      "celkem": 1704,
+      "upt": 0,
+      "spontanni": 669,
+      "ostatni": 55,
+      "ratio_upt_spont": 0.0
+    },
+    "2019": {
+      "celkem": 1618,
+      "upt": 0,
+      "spontanni": 607,
+      "ostatni": 57,
+      "ratio_upt_spont": 0.0
+    },
+    "2020": {
+      "celkem": 1621,
+      "upt": 0,
+      "spontanni": 596,
+      "ostatni": 80,
+      "ratio_upt_spont": 0.0
+    },
+    "2021": {
+      "celkem": 1471,
+      "upt": 0,
+      "spontanni": 542,
+      "ostatni": 60,
+      "ratio_upt_spont": 0.0
+    },
+    "2022": {
+      "celkem": 1349,
+      "upt": 0,
+      "spontanni": 442,
+      "ostatni": 57,
+      "ratio_upt_spont": 0.0
+    },
+    "2023": {
+      "celkem": 1289,
+      "upt": 0,
+      "spontanni": 407,
+      "ostatni": 40,
+      "ratio_upt_spont": 0.0
+    },
+    "2024": {
+      "celkem": 1255,
+      "upt": 0,
+      "spontanni": 411,
+      "ostatni": 31,
+      "ratio_upt_spont": 0.0
+    },
+    "2025": {
+      "celkem": 1175,
+      "upt": 0,
+      "spontanni": 356,
+      "ostatni": 42,
+      "ratio_upt_spont": 0.0
+    }
+  },
+  "CZ052": {
+    "1994": {
+      "celkem": 3402,
+      "upt": 0,
+      "spontanni": 452,
+      "ostatni": 89,
+      "ratio_upt_spont": 0.0
+    },
+    "1995": {
+      "celkem": 3184,
+      "upt": 0,
+      "spontanni": 455,
+      "ostatni": 84,
+      "ratio_upt_spont": 0.0
+    },
+    "1996": {
+      "celkem": 3239,
+      "upt": 0,
+      "spontanni": 491,
+      "ostatni": 122,
+      "ratio_upt_spont": 0.0
+    },
+    "1997": {
+      "celkem": 3063,
+      "upt": 0,
+      "spontanni": 469,
+      "ostatni": 102,
+      "ratio_upt_spont": 0.0
+    },
+    "1998": {
+      "celkem": 3085,
+      "upt": 0,
+      "spontanni": 489,
+      "ostatni": 111,
+      "ratio_upt_spont": 0.0
+    },
+    "1999": {
+      "celkem": 2763,
+      "upt": 0,
+      "spontanni": 555,
+      "ostatni": 94,
+      "ratio_upt_spont": 0.0
+    },
+    "2000": {
+      "celkem": 2499,
+      "upt": 0,
+      "spontanni": 540,
+      "ostatni": 97,
+      "ratio_upt_spont": 0.0
+    },
+    "2001": {
+      "celkem": 2344,
+      "upt": 0,
+      "spontanni": 546,
+      "ostatni": 87,
+      "ratio_upt_spont": 0.0
+    },
+    "2002": {
+      "celkem": 2356,
+      "upt": 0,
+      "spontanni": 543,
+      "ostatni": 98,
+      "ratio_upt_spont": 0.0
+    },
+    "2003": {
+      "celkem": 2371,
+      "upt": 0,
+      "spontanni": 495,
+      "ostatni": 66,
+      "ratio_upt_spont": 0.0
+    },
+    "2004": {
+      "celkem": 2300,
+      "upt": 0,
+      "spontanni": 659,
+      "ostatni": 83,
+      "ratio_upt_spont": 0.0
+    },
+    "2005": {
+      "celkem": 2277,
+      "upt": 0,
+      "spontanni": 628,
+      "ostatni": 80,
+      "ratio_upt_spont": 0.0
+    },
+    "2006": {
+      "celkem": 2213,
+      "upt": 0,
+      "spontanni": 650,
+      "ostatni": 77,
+      "ratio_upt_spont": 0.0
+    },
+    "2007": {
+      "celkem": 2250,
+      "upt": 0,
+      "spontanni": 624,
+      "ostatni": 80,
+      "ratio_upt_spont": 0.0
+    },
+    "2008": {
+      "celkem": 2228,
+      "upt": 0,
+      "spontanni": 765,
+      "ostatni": 105,
+      "ratio_upt_spont": 0.0
+    },
+    "2009": {
+      "celkem": 2256,
+      "upt": 0,
+      "spontanni": 793,
+      "ostatni": 62,
+      "ratio_upt_spont": 0.0
+    },
+    "2010": {
+      "celkem": 2179,
+      "upt": 0,
+      "spontanni": 779,
+      "ostatni": 95,
+      "ratio_upt_spont": 0.0
+    },
+    "2011": {
+      "celkem": 2079,
+      "upt": 0,
+      "spontanni": 722,
+      "ostatni": 73,
+      "ratio_upt_spont": 0.0
+    },
+    "2012": {
+      "celkem": 2010,
+      "upt": 0,
+      "spontanni": 697,
+      "ostatni": 67,
+      "ratio_upt_spont": 0.0
+    },
+    "2013": {
+      "celkem": 1961,
+      "upt": 0,
+      "spontanni": 674,
+      "ostatni": 74,
+      "ratio_upt_spont": 0.0
+    },
+    "2014": {
+      "celkem": 1946,
+      "upt": 0,
+      "spontanni": 579,
+      "ostatni": 74,
+      "ratio_upt_spont": 0.0
+    },
+    "2015": {
+      "celkem": 1816,
+      "upt": 0,
+      "spontanni": 601,
+      "ostatni": 71,
+      "ratio_upt_spont": 0.0
+    },
+    "2016": {
+      "celkem": 1861,
+      "upt": 0,
+      "spontanni": 680,
+      "ostatni": 70,
+      "ratio_upt_spont": 0.0
+    },
+    "2017": {
+      "celkem": 1730,
+      "upt": 0,
+      "spontanni": 683,
+      "ostatni": 79,
+      "ratio_upt_spont": 0.0
+    },
+    "2018": {
+      "celkem": 1642,
+      "upt": 0,
+      "spontanni": 675,
+      "ostatni": 95,
+      "ratio_upt_spont": 0.0
+    },
+    "2019": {
+      "celkem": 1584,
+      "upt": 0,
+      "spontanni": 607,
+      "ostatni": 68,
+      "ratio_upt_spont": 0.0
+    },
+    "2020": {
+      "celkem": 1490,
+      "upt": 0,
+      "spontanni": 512,
+      "ostatni": 63,
+      "ratio_upt_spont": 0.0
+    },
+    "2021": {
+      "celkem": 1285,
+      "upt": 0,
+      "spontanni": 443,
+      "ostatni": 63,
+      "ratio_upt_spont": 0.0
+    },
+    "2022": {
+      "celkem": 1304,
+      "upt": 0,
+      "spontanni": 389,
+      "ostatni": 61,
+      "ratio_upt_spont": 0.0
+    },
+    "2023": {
+      "celkem": 1132,
+      "upt": 0,
+      "spontanni": 375,
+      "ostatni": 47,
+      "ratio_upt_spont": 0.0
+    },
+    "2024": {
+      "celkem": 1198,
+      "upt": 0,
+      "spontanni": 384,
+      "ostatni": 40,
+      "ratio_upt_spont": 0.0
+    },
+    "2025": {
+      "celkem": 1149,
+      "upt": 0,
+      "spontanni": 370,
+      "ostatni": 56,
+      "ratio_upt_spont": 0.0
+    }
+  },
+  "CZ053": {
+    "1994": {
+      "celkem": 3035,
+      "upt": 0,
+      "spontanni": 554,
+      "ostatni": 86,
+      "ratio_upt_spont": 0.0
+    },
+    "1995": {
+      "celkem": 2862,
+      "upt": 0,
+      "spontanni": 543,
+      "ostatni": 80,
+      "ratio_upt_spont": 0.0
+    },
+    "1996": {
+      "celkem": 2743,
+      "upt": 0,
+      "spontanni": 480,
+      "ostatni": 93,
+      "ratio_upt_spont": 0.0
+    },
+    "1997": {
+      "celkem": 2765,
+      "upt": 0,
+      "spontanni": 533,
+      "ostatni": 98,
+      "ratio_upt_spont": 0.0
+    },
+    "1998": {
+      "celkem": 2685,
+      "upt": 0,
+      "spontanni": 552,
+      "ostatni": 99,
+      "ratio_upt_spont": 0.0
+    },
+    "1999": {
+      "celkem": 2426,
+      "upt": 0,
+      "spontanni": 545,
+      "ostatni": 97,
+      "ratio_upt_spont": 0.0
+    },
+    "2000": {
+      "celkem": 2036,
+      "upt": 0,
+      "spontanni": 507,
+      "ostatni": 70,
+      "ratio_upt_spont": 0.0
+    },
+    "2001": {
+      "celkem": 1848,
+      "upt": 0,
+      "spontanni": 541,
+      "ostatni": 78,
+      "ratio_upt_spont": 0.0
+    },
+    "2002": {
+      "celkem": 1882,
+      "upt": 0,
+      "spontanni": 543,
+      "ostatni": 87,
+      "ratio_upt_spont": 0.0
+    },
+    "2003": {
+      "celkem": 1714,
+      "upt": 0,
+      "spontanni": 558,
+      "ostatni": 85,
+      "ratio_upt_spont": 0.0
+    },
+    "2004": {
+      "celkem": 1710,
+      "upt": 0,
+      "spontanni": 624,
+      "ostatni": 62,
+      "ratio_upt_spont": 0.0
+    },
+    "2005": {
+      "celkem": 1534,
+      "upt": 0,
+      "spontanni": 585,
+      "ostatni": 52,
+      "ratio_upt_spont": 0.0
+    },
+    "2006": {
+      "celkem": 1568,
+      "upt": 0,
+      "spontanni": 634,
+      "ostatni": 70,
+      "ratio_upt_spont": 0.0
+    },
+    "2007": {
+      "celkem": 1666,
+      "upt": 0,
+      "spontanni": 729,
+      "ostatni": 90,
+      "ratio_upt_spont": 0.0
+    },
+    "2008": {
+      "celkem": 1753,
+      "upt": 0,
+      "spontanni": 737,
+      "ostatni": 94,
+      "ratio_upt_spont": 0.0
+    },
+    "2009": {
+      "celkem": 1647,
+      "upt": 0,
+      "spontanni": 715,
+      "ostatni": 80,
+      "ratio_upt_spont": 0.0
+    },
+    "2010": {
+      "celkem": 1591,
+      "upt": 0,
+      "spontanni": 692,
+      "ostatni": 75,
+      "ratio_upt_spont": 0.0
+    },
+    "2011": {
+      "celkem": 1622,
+      "upt": 0,
+      "spontanni": 724,
+      "ostatni": 65,
+      "ratio_upt_spont": 0.0
+    },
+    "2012": {
+      "celkem": 1562,
+      "upt": 0,
+      "spontanni": 701,
+      "ostatni": 64,
+      "ratio_upt_spont": 0.0
+    },
+    "2013": {
+      "celkem": 1545,
+      "upt": 0,
+      "spontanni": 647,
+      "ostatni": 79,
+      "ratio_upt_spont": 0.0
+    },
+    "2014": {
+      "celkem": 1460,
+      "upt": 0,
+      "spontanni": 659,
+      "ostatni": 66,
+      "ratio_upt_spont": 0.0
+    },
+    "2015": {
+      "celkem": 1492,
+      "upt": 0,
+      "spontanni": 676,
+      "ostatni": 58,
+      "ratio_upt_spont": 0.0
+    },
+    "2016": {
+      "celkem": 1509,
+      "upt": 0,
+      "spontanni": 673,
+      "ostatni": 78,
+      "ratio_upt_spont": 0.0
+    },
+    "2017": {
+      "celkem": 1528,
+      "upt": 0,
+      "spontanni": 699,
+      "ostatni": 81,
+      "ratio_upt_spont": 0.0
+    },
+    "2018": {
+      "celkem": 1340,
+      "upt": 0,
+      "spontanni": 595,
+      "ostatni": 56,
+      "ratio_upt_spont": 0.0
+    },
+    "2019": {
+      "celkem": 1282,
+      "upt": 0,
+      "spontanni": 556,
+      "ostatni": 62,
+      "ratio_upt_spont": 0.0
+    },
+    "2020": {
+      "celkem": 1230,
+      "upt": 0,
+      "spontanni": 515,
+      "ostatni": 63,
+      "ratio_upt_spont": 0.0
+    },
+    "2021": {
+      "celkem": 1210,
+      "upt": 0,
+      "spontanni": 515,
+      "ostatni": 75,
+      "ratio_upt_spont": 0.0
+    },
+    "2022": {
+      "celkem": 1207,
+      "upt": 0,
+      "spontanni": 449,
+      "ostatni": 97,
+      "ratio_upt_spont": 0.0
+    },
+    "2023": {
+      "celkem": 1035,
+      "upt": 0,
+      "spontanni": 391,
+      "ostatni": 50,
+      "ratio_upt_spont": 0.0
+    },
+    "2024": {
+      "celkem": 1040,
+      "upt": 0,
+      "spontanni": 344,
+      "ostatni": 54,
+      "ratio_upt_spont": 0.0
+    },
+    "2025": {
+      "celkem": 1062,
+      "upt": 0,
+      "spontanni": 363,
+      "ostatni": 44,
+      "ratio_upt_spont": 0.0
+    }
+  },
+  "CZ063": {
+    "1994": {
+      "celkem": 2935,
+      "upt": 0,
+      "spontanni": 613,
+      "ostatni": 112,
+      "ratio_upt_spont": 0.0
+    },
+    "1995": {
+      "celkem": 2624,
+      "upt": 0,
+      "spontanni": 573,
+      "ostatni": 123,
+      "ratio_upt_spont": 0.0
+    },
+    "1996": {
+      "celkem": 2570,
+      "upt": 0,
+      "spontanni": 581,
+      "ostatni": 94,
+      "ratio_upt_spont": 0.0
+    },
+    "1997": {
+      "celkem": 2440,
+      "upt": 0,
+      "spontanni": 613,
+      "ostatni": 97,
+      "ratio_upt_spont": 0.0
+    },
+    "1998": {
+      "celkem": 2340,
+      "upt": 0,
+      "spontanni": 625,
+      "ostatni": 98,
+      "ratio_upt_spont": 0.0
+    },
+    "1999": {
+      "celkem": 2219,
+      "upt": 0,
+      "spontanni": 555,
+      "ostatni": 86,
+      "ratio_upt_spont": 0.0
+    },
+    "2000": {
+      "celkem": 1983,
+      "upt": 0,
+      "spontanni": 598,
+      "ostatni": 57,
+      "ratio_upt_spont": 0.0
+    },
+    "2001": {
+      "celkem": 1849,
+      "upt": 0,
+      "spontanni": 555,
+      "ostatni": 71,
+      "ratio_upt_spont": 0.0
+    },
+    "2002": {
+      "celkem": 1871,
+      "upt": 0,
+      "spontanni": 605,
+      "ostatni": 79,
+      "ratio_upt_spont": 0.0
+    },
+    "2003": {
+      "celkem": 1847,
+      "upt": 0,
+      "spontanni": 602,
+      "ostatni": 82,
+      "ratio_upt_spont": 0.0
+    },
+    "2004": {
+      "celkem": 1710,
+      "upt": 0,
+      "spontanni": 566,
+      "ostatni": 59,
+      "ratio_upt_spont": 0.0
+    },
+    "2005": {
+      "celkem": 1728,
+      "upt": 0,
+      "spontanni": 612,
+      "ostatni": 70,
+      "ratio_upt_spont": 0.0
+    },
+    "2006": {
+      "celkem": 1762,
+      "upt": 0,
+      "spontanni": 663,
+      "ostatni": 70,
+      "ratio_upt_spont": 0.0
+    },
+    "2007": {
+      "celkem": 1789,
+      "upt": 0,
+      "spontanni": 778,
+      "ostatni": 62,
+      "ratio_upt_spont": 0.0
+    },
+    "2008": {
+      "celkem": 1746,
+      "upt": 0,
+      "spontanni": 691,
+      "ostatni": 66,
+      "ratio_upt_spont": 0.0
+    },
+    "2009": {
+      "celkem": 1661,
+      "upt": 0,
+      "spontanni": 718,
+      "ostatni": 64,
+      "ratio_upt_spont": 0.0
+    },
+    "2010": {
+      "celkem": 1591,
+      "upt": 0,
+      "spontanni": 717,
+      "ostatni": 58,
+      "ratio_upt_spont": 0.0
+    },
+    "2011": {
+      "celkem": 1630,
+      "upt": 0,
+      "spontanni": 702,
+      "ostatni": 76,
+      "ratio_upt_spont": 0.0
+    },
+    "2012": {
+      "celkem": 1557,
+      "upt": 0,
+      "spontanni": 638,
+      "ostatni": 72,
+      "ratio_upt_spont": 0.0
+    },
+    "2013": {
+      "celkem": 1619,
+      "upt": 0,
+      "spontanni": 726,
+      "ostatni": 58,
+      "ratio_upt_spont": 0.0
+    },
+    "2014": {
+      "celkem": 1422,
+      "upt": 0,
+      "spontanni": 658,
+      "ostatni": 66,
+      "ratio_upt_spont": 0.0
+    },
+    "2015": {
+      "celkem": 1544,
+      "upt": 0,
+      "spontanni": 779,
+      "ostatni": 66,
+      "ratio_upt_spont": 0.0
+    },
+    "2016": {
+      "celkem": 1512,
+      "upt": 0,
+      "spontanni": 683,
+      "ostatni": 72,
+      "ratio_upt_spont": 0.0
+    },
+    "2017": {
+      "celkem": 1464,
+      "upt": 0,
+      "spontanni": 669,
+      "ostatni": 75,
+      "ratio_upt_spont": 0.0
+    },
+    "2018": {
+      "celkem": 1335,
+      "upt": 0,
+      "spontanni": 591,
+      "ostatni": 68,
+      "ratio_upt_spont": 0.0
+    },
+    "2019": {
+      "celkem": 1315,
+      "upt": 0,
+      "spontanni": 608,
+      "ostatni": 68,
+      "ratio_upt_spont": 0.0
+    },
+    "2020": {
+      "celkem": 1309,
+      "upt": 0,
+      "spontanni": 593,
+      "ostatni": 69,
+      "ratio_upt_spont": 0.0
+    },
+    "2021": {
+      "celkem": 1072,
+      "upt": 0,
+      "spontanni": 475,
+      "ostatni": 56,
+      "ratio_upt_spont": 0.0
+    },
+    "2022": {
+      "celkem": 1102,
+      "upt": 0,
+      "spontanni": 446,
+      "ostatni": 56,
+      "ratio_upt_spont": 0.0
+    },
+    "2023": {
+      "celkem": 963,
+      "upt": 0,
+      "spontanni": 407,
+      "ostatni": 27,
+      "ratio_upt_spont": 0.0
+    },
+    "2024": {
+      "celkem": 1005,
+      "upt": 0,
+      "spontanni": 405,
+      "ostatni": 44,
+      "ratio_upt_spont": 0.0
+    },
+    "2025": {
+      "celkem": 939,
+      "upt": 0,
+      "spontanni": 324,
+      "ostatni": 45,
+      "ratio_upt_spont": 0.0
+    }
+  },
+  "CZ064": {
+    "1994": {
+      "celkem": 6294,
+      "upt": 0,
+      "spontanni": 1265,
+      "ostatni": 123,
+      "ratio_upt_spont": 0.0
+    },
+    "1995": {
+      "celkem": 5789,
+      "upt": 0,
+      "spontanni": 1202,
+      "ostatni": 116,
+      "ratio_upt_spont": 0.0
+    },
+    "1996": {
+      "celkem": 5842,
+      "upt": 0,
+      "spontanni": 1255,
+      "ostatni": 123,
+      "ratio_upt_spont": 0.0
+    },
+    "1997": {
+      "celkem": 5294,
+      "upt": 0,
+      "spontanni": 1179,
+      "ostatni": 119,
+      "ratio_upt_spont": 0.0
+    },
+    "1998": {
+      "celkem": 5274,
+      "upt": 0,
+      "spontanni": 1259,
+      "ostatni": 137,
+      "ratio_upt_spont": 0.0
+    },
+    "1999": {
+      "celkem": 5002,
+      "upt": 0,
+      "spontanni": 1252,
+      "ostatni": 138,
+      "ratio_upt_spont": 0.0
+    },
+    "2000": {
+      "celkem": 4505,
+      "upt": 0,
+      "spontanni": 1291,
+      "ostatni": 139,
+      "ratio_upt_spont": 0.0
+    },
+    "2001": {
+      "celkem": 4297,
+      "upt": 0,
+      "spontanni": 1123,
+      "ostatni": 107,
+      "ratio_upt_spont": 0.0
+    },
+    "2002": {
+      "celkem": 4131,
+      "upt": 0,
+      "spontanni": 1149,
+      "ostatni": 114,
+      "ratio_upt_spont": 0.0
+    },
+    "2003": {
+      "celkem": 4153,
+      "upt": 0,
+      "spontanni": 1263,
+      "ostatni": 110,
+      "ratio_upt_spont": 0.0
+    },
+    "2004": {
+      "celkem": 3933,
+      "upt": 0,
+      "spontanni": 1258,
+      "ostatni": 102,
+      "ratio_upt_spont": 0.0
+    },
+    "2005": {
+      "celkem": 3892,
+      "upt": 0,
+      "spontanni": 1319,
+      "ostatni": 103,
+      "ratio_upt_spont": 0.0
+    },
+    "2006": {
+      "celkem": 3923,
+      "upt": 0,
+      "spontanni": 1383,
+      "ostatni": 114,
+      "ratio_upt_spont": 0.0
+    },
+    "2007": {
+      "celkem": 4074,
+      "upt": 0,
+      "spontanni": 1389,
+      "ostatni": 116,
+      "ratio_upt_spont": 0.0
+    },
+    "2008": {
+      "celkem": 3796,
+      "upt": 0,
+      "spontanni": 1334,
+      "ostatni": 114,
+      "ratio_upt_spont": 0.0
+    },
+    "2009": {
+      "celkem": 3757,
+      "upt": 0,
+      "spontanni": 1413,
+      "ostatni": 119,
+      "ratio_upt_spont": 0.0
+    },
+    "2010": {
+      "celkem": 3730,
+      "upt": 0,
+      "spontanni": 1304,
+      "ostatni": 115,
+      "ratio_upt_spont": 0.0
+    },
+    "2011": {
+      "celkem": 3599,
+      "upt": 0,
+      "spontanni": 1288,
+      "ostatni": 90,
+      "ratio_upt_spont": 0.0
+    },
+    "2012": {
+      "celkem": 3673,
+      "upt": 0,
+      "spontanni": 1227,
+      "ostatni": 118,
+      "ratio_upt_spont": 0.0
+    },
+    "2013": {
+      "celkem": 3775,
+      "upt": 0,
+      "spontanni": 1414,
+      "ostatni": 141,
+      "ratio_upt_spont": 0.0
+    },
+    "2014": {
+      "celkem": 3874,
+      "upt": 0,
+      "spontanni": 1534,
+      "ostatni": 115,
+      "ratio_upt_spont": 0.0
+    },
+    "2015": {
+      "celkem": 3771,
+      "upt": 0,
+      "spontanni": 1595,
+      "ostatni": 136,
+      "ratio_upt_spont": 0.0
+    },
+    "2016": {
+      "celkem": 3501,
+      "upt": 0,
+      "spontanni": 1506,
+      "ostatni": 132,
+      "ratio_upt_spont": 0.0
+    },
+    "2017": {
+      "celkem": 3486,
+      "upt": 0,
+      "spontanni": 1509,
+      "ostatni": 143,
+      "ratio_upt_spont": 0.0
+    },
+    "2018": {
+      "celkem": 3232,
+      "upt": 0,
+      "spontanni": 1281,
+      "ostatni": 115,
+      "ratio_upt_spont": 0.0
+    },
+    "2019": {
+      "celkem": 3235,
+      "upt": 0,
+      "spontanni": 1272,
+      "ostatni": 132,
+      "ratio_upt_spont": 0.0
+    },
+    "2020": {
+      "celkem": 2942,
+      "upt": 0,
+      "spontanni": 1136,
+      "ostatni": 125,
+      "ratio_upt_spont": 0.0
+    },
+    "2021": {
+      "celkem": 2788,
+      "upt": 0,
+      "spontanni": 1135,
+      "ostatni": 143,
+      "ratio_upt_spont": 0.0
+    },
+    "2022": {
+      "celkem": 2866,
+      "upt": 0,
+      "spontanni": 1048,
+      "ostatni": 103,
+      "ratio_upt_spont": 0.0
+    },
+    "2023": {
+      "celkem": 2429,
+      "upt": 0,
+      "spontanni": 834,
+      "ostatni": 78,
+      "ratio_upt_spont": 0.0
+    },
+    "2024": {
+      "celkem": 2341,
+      "upt": 0,
+      "spontanni": 820,
+      "ostatni": 81,
+      "ratio_upt_spont": 0.0
+    },
+    "2025": {
+      "celkem": 2291,
+      "upt": 0,
+      "spontanni": 736,
+      "ostatni": 70,
+      "ratio_upt_spont": 0.0
+    }
+  },
+  "CZ071": {
+    "1994": {
+      "celkem": 4318,
+      "upt": 0,
+      "spontanni": 760,
+      "ostatni": 98,
+      "ratio_upt_spont": 0.0
+    },
+    "1995": {
+      "celkem": 3946,
+      "upt": 0,
+      "spontanni": 727,
+      "ostatni": 103,
+      "ratio_upt_spont": 0.0
+    },
+    "1996": {
+      "celkem": 3829,
+      "upt": 0,
+      "spontanni": 719,
+      "ostatni": 119,
+      "ratio_upt_spont": 0.0
+    },
+    "1997": {
+      "celkem": 3430,
+      "upt": 0,
+      "spontanni": 658,
+      "ostatni": 93,
+      "ratio_upt_spont": 0.0
+    },
+    "1998": {
+      "celkem": 3322,
+      "upt": 0,
+      "spontanni": 706,
+      "ostatni": 103,
+      "ratio_upt_spont": 0.0
+    },
+    "1999": {
+      "celkem": 3052,
+      "upt": 0,
+      "spontanni": 672,
+      "ostatni": 83,
+      "ratio_upt_spont": 0.0
+    },
+    "2000": {
+      "celkem": 2725,
+      "upt": 0,
+      "spontanni": 703,
+      "ostatni": 70,
+      "ratio_upt_spont": 0.0
+    },
+    "2001": {
+      "celkem": 2583,
+      "upt": 0,
+      "spontanni": 711,
+      "ostatni": 80,
+      "ratio_upt_spont": 0.0
+    },
+    "2002": {
+      "celkem": 2464,
+      "upt": 0,
+      "spontanni": 692,
+      "ostatni": 70,
+      "ratio_upt_spont": 0.0
+    },
+    "2003": {
+      "celkem": 2323,
+      "upt": 0,
+      "spontanni": 685,
+      "ostatni": 70,
+      "ratio_upt_spont": 0.0
+    },
+    "2004": {
+      "celkem": 2110,
+      "upt": 0,
+      "spontanni": 703,
+      "ostatni": 43,
+      "ratio_upt_spont": 0.0
+    },
+    "2005": {
+      "celkem": 2208,
+      "upt": 0,
+      "spontanni": 804,
+      "ostatni": 50,
+      "ratio_upt_spont": 0.0
+    },
+    "2006": {
+      "celkem": 2202,
+      "upt": 0,
+      "spontanni": 830,
+      "ostatni": 50,
+      "ratio_upt_spont": 0.0
+    },
+    "2007": {
+      "celkem": 2252,
+      "upt": 0,
+      "spontanni": 908,
+      "ostatni": 75,
+      "ratio_upt_spont": 0.0
+    },
+    "2008": {
+      "celkem": 2145,
+      "upt": 0,
+      "spontanni": 828,
+      "ostatni": 73,
+      "ratio_upt_spont": 0.0
+    },
+    "2009": {
+      "celkem": 2113,
+      "upt": 0,
+      "spontanni": 890,
+      "ostatni": 57,
+      "ratio_upt_spont": 0.0
+    },
+    "2010": {
+      "celkem": 2006,
+      "upt": 0,
+      "spontanni": 749,
+      "ostatni": 42,
+      "ratio_upt_spont": 0.0
+    },
+    "2011": {
+      "celkem": 2135,
+      "upt": 0,
+      "spontanni": 778,
+      "ostatni": 46,
+      "ratio_upt_spont": 0.0
+    },
+    "2012": {
+      "celkem": 2043,
+      "upt": 0,
+      "spontanni": 783,
+      "ostatni": 59,
+      "ratio_upt_spont": 0.0
+    },
+    "2013": {
+      "celkem": 2010,
+      "upt": 0,
+      "spontanni": 754,
+      "ostatni": 45,
+      "ratio_upt_spont": 0.0
+    },
+    "2014": {
+      "celkem": 2148,
+      "upt": 0,
+      "spontanni": 783,
+      "ostatni": 84,
+      "ratio_upt_spont": 0.0
+    },
+    "2015": {
+      "celkem": 1979,
+      "upt": 0,
+      "spontanni": 789,
+      "ostatni": 53,
+      "ratio_upt_spont": 0.0
+    },
+    "2016": {
+      "celkem": 2153,
+      "upt": 0,
+      "spontanni": 943,
+      "ostatni": 72,
+      "ratio_upt_spont": 0.0
+    },
+    "2017": {
+      "celkem": 2018,
+      "upt": 0,
+      "spontanni": 926,
+      "ostatni": 77,
+      "ratio_upt_spont": 0.0
+    },
+    "2018": {
+      "celkem": 1896,
+      "upt": 0,
+      "spontanni": 839,
+      "ostatni": 74,
+      "ratio_upt_spont": 0.0
+    },
+    "2019": {
+      "celkem": 1872,
+      "upt": 0,
+      "spontanni": 783,
+      "ostatni": 90,
+      "ratio_upt_spont": 0.0
+    },
+    "2020": {
+      "celkem": 1799,
+      "upt": 0,
+      "spontanni": 709,
+      "ostatni": 92,
+      "ratio_upt_spont": 0.0
+    },
+    "2021": {
+      "celkem": 1722,
+      "upt": 0,
+      "spontanni": 717,
+      "ostatni": 87,
+      "ratio_upt_spont": 0.0
+    },
+    "2022": {
+      "celkem": 1649,
+      "upt": 0,
+      "spontanni": 615,
+      "ostatni": 88,
+      "ratio_upt_spont": 0.0
+    },
+    "2023": {
+      "celkem": 1559,
+      "upt": 0,
+      "spontanni": 590,
+      "ostatni": 51,
+      "ratio_upt_spont": 0.0
+    },
+    "2024": {
+      "celkem": 1464,
+      "upt": 0,
+      "spontanni": 491,
+      "ostatni": 49,
+      "ratio_upt_spont": 0.0
+    },
+    "2025": {
+      "celkem": 1405,
+      "upt": 0,
+      "spontanni": 487,
+      "ostatni": 45,
+      "ratio_upt_spont": 0.0
+    }
+  },
+  "CZ072": {
+    "1994": {
+      "celkem": 3122,
+      "upt": 0,
+      "spontanni": 583,
+      "ostatni": 73,
+      "ratio_upt_spont": 0.0
+    },
+    "1995": {
+      "celkem": 3002,
+      "upt": 0,
+      "spontanni": 625,
+      "ostatni": 64,
+      "ratio_upt_spont": 0.0
+    },
+    "1996": {
+      "celkem": 2817,
+      "upt": 0,
+      "spontanni": 517,
+      "ostatni": 66,
+      "ratio_upt_spont": 0.0
+    },
+    "1997": {
+      "celkem": 2698,
+      "upt": 0,
+      "spontanni": 572,
+      "ostatni": 73,
+      "ratio_upt_spont": 0.0
+    },
+    "1998": {
+      "celkem": 2787,
+      "upt": 0,
+      "spontanni": 702,
+      "ostatni": 81,
+      "ratio_upt_spont": 0.0
+    },
+    "1999": {
+      "celkem": 2642,
+      "upt": 0,
+      "spontanni": 767,
+      "ostatni": 68,
+      "ratio_upt_spont": 0.0
+    },
+    "2000": {
+      "celkem": 2337,
+      "upt": 0,
+      "spontanni": 674,
+      "ostatni": 89,
+      "ratio_upt_spont": 0.0
+    },
+    "2001": {
+      "celkem": 2197,
+      "upt": 0,
+      "spontanni": 688,
+      "ostatni": 77,
+      "ratio_upt_spont": 0.0
+    },
+    "2002": {
+      "celkem": 2124,
+      "upt": 0,
+      "spontanni": 656,
+      "ostatni": 78,
+      "ratio_upt_spont": 0.0
+    },
+    "2003": {
+      "celkem": 2023,
+      "upt": 0,
+      "spontanni": 740,
+      "ostatni": 59,
+      "ratio_upt_spont": 0.0
+    },
+    "2004": {
+      "celkem": 1938,
+      "upt": 0,
+      "spontanni": 744,
+      "ostatni": 80,
+      "ratio_upt_spont": 0.0
+    },
+    "2005": {
+      "celkem": 1869,
+      "upt": 0,
+      "spontanni": 720,
+      "ostatni": 71,
+      "ratio_upt_spont": 0.0
+    },
+    "2006": {
+      "celkem": 1852,
+      "upt": 0,
+      "spontanni": 808,
+      "ostatni": 47,
+      "ratio_upt_spont": 0.0
+    },
+    "2007": {
+      "celkem": 1895,
+      "upt": 0,
+      "spontanni": 804,
+      "ostatni": 75,
+      "ratio_upt_spont": 0.0
+    },
+    "2008": {
+      "celkem": 1877,
+      "upt": 0,
+      "spontanni": 778,
+      "ostatni": 76,
+      "ratio_upt_spont": 0.0
+    },
+    "2009": {
+      "celkem": 1927,
+      "upt": 0,
+      "spontanni": 801,
+      "ostatni": 59,
+      "ratio_upt_spont": 0.0
+    },
+    "2010": {
+      "celkem": 1903,
+      "upt": 0,
+      "spontanni": 841,
+      "ostatni": 50,
+      "ratio_upt_spont": 0.0
+    },
+    "2011": {
+      "celkem": 1833,
+      "upt": 0,
+      "spontanni": 771,
+      "ostatni": 57,
+      "ratio_upt_spont": 0.0
+    },
+    "2012": {
+      "celkem": 1798,
+      "upt": 0,
+      "spontanni": 777,
+      "ostatni": 63,
+      "ratio_upt_spont": 0.0
+    },
+    "2013": {
+      "celkem": 1803,
+      "upt": 0,
+      "spontanni": 791,
+      "ostatni": 64,
+      "ratio_upt_spont": 0.0
+    },
+    "2014": {
+      "celkem": 1934,
+      "upt": 0,
+      "spontanni": 891,
+      "ostatni": 71,
+      "ratio_upt_spont": 0.0
+    },
+    "2015": {
+      "celkem": 1822,
+      "upt": 0,
+      "spontanni": 879,
+      "ostatni": 73,
+      "ratio_upt_spont": 0.0
+    },
+    "2016": {
+      "celkem": 1805,
+      "upt": 0,
+      "spontanni": 848,
+      "ostatni": 65,
+      "ratio_upt_spont": 0.0
+    },
+    "2017": {
+      "celkem": 1781,
+      "upt": 0,
+      "spontanni": 819,
+      "ostatni": 63,
+      "ratio_upt_spont": 0.0
+    },
+    "2018": {
+      "celkem": 1684,
+      "upt": 0,
+      "spontanni": 807,
+      "ostatni": 54,
+      "ratio_upt_spont": 0.0
+    },
+    "2019": {
+      "celkem": 1680,
+      "upt": 0,
+      "spontanni": 796,
+      "ostatni": 78,
+      "ratio_upt_spont": 0.0
+    },
+    "2020": {
+      "celkem": 1527,
+      "upt": 0,
+      "spontanni": 759,
+      "ostatni": 63,
+      "ratio_upt_spont": 0.0
+    },
+    "2021": {
+      "celkem": 1534,
+      "upt": 0,
+      "spontanni": 749,
+      "ostatni": 81,
+      "ratio_upt_spont": 0.0
+    },
+    "2022": {
+      "celkem": 1492,
+      "upt": 0,
+      "spontanni": 694,
+      "ostatni": 76,
+      "ratio_upt_spont": 0.0
+    },
+    "2023": {
+      "celkem": 1334,
+      "upt": 0,
+      "spontanni": 615,
+      "ostatni": 90,
+      "ratio_upt_spont": 0.0
+    },
+    "2024": {
+      "celkem": 1310,
+      "upt": 0,
+      "spontanni": 585,
+      "ostatni": 77,
+      "ratio_upt_spont": 0.0
+    },
+    "2025": {
+      "celkem": 1203,
+      "upt": 0,
+      "spontanni": 513,
+      "ostatni": 62,
+      "ratio_upt_spont": 0.0
+    }
+  },
+  "CZ080": {
+    "1994": {
+      "celkem": 8610,
+      "upt": 0,
+      "spontanni": 1633,
+      "ostatni": 160,
+      "ratio_upt_spont": 0.0
+    },
+    "1995": {
+      "celkem": 7885,
+      "upt": 0,
+      "spontanni": 1665,
+      "ostatni": 185,
+      "ratio_upt_spont": 0.0
+    },
+    "1996": {
+      "celkem": 7444,
+      "upt": 0,
+      "spontanni": 1567,
+      "ostatni": 198,
+      "ratio_upt_spont": 0.0
+    },
+    "1997": {
+      "celkem": 7244,
+      "upt": 0,
+      "spontanni": 1611,
+      "ostatni": 196,
+      "ratio_upt_spont": 0.0
+    },
+    "1998": {
+      "celkem": 7000,
+      "upt": 0,
+      "spontanni": 1700,
+      "ostatni": 176,
+      "ratio_upt_spont": 0.0
+    },
+    "1999": {
+      "celkem": 6683,
+      "upt": 0,
+      "spontanni": 1750,
+      "ostatni": 159,
+      "ratio_upt_spont": 0.0
+    },
+    "2000": {
+      "celkem": 5817,
+      "upt": 0,
+      "spontanni": 1662,
+      "ostatni": 174,
+      "ratio_upt_spont": 0.0
+    },
+    "2001": {
+      "celkem": 5534,
+      "upt": 0,
+      "spontanni": 1642,
+      "ostatni": 146,
+      "ratio_upt_spont": 0.0
+    },
+    "2002": {
+      "celkem": 5214,
+      "upt": 0,
+      "spontanni": 1564,
+      "ostatni": 140,
+      "ratio_upt_spont": 0.0
+    },
+    "2003": {
+      "celkem": 4885,
+      "upt": 0,
+      "spontanni": 1555,
+      "ostatni": 147,
+      "ratio_upt_spont": 0.0
+    },
+    "2004": {
+      "celkem": 4883,
+      "upt": 0,
+      "spontanni": 1525,
+      "ostatni": 156,
+      "ratio_upt_spont": 0.0
+    },
+    "2005": {
+      "celkem": 4629,
+      "upt": 0,
+      "spontanni": 1362,
+      "ostatni": 159,
+      "ratio_upt_spont": 0.0
+    },
+    "2006": {
+      "celkem": 4652,
+      "upt": 0,
+      "spontanni": 1587,
+      "ostatni": 147,
+      "ratio_upt_spont": 0.0
+    },
+    "2007": {
+      "celkem": 4868,
+      "upt": 0,
+      "spontanni": 1675,
+      "ostatni": 168,
+      "ratio_upt_spont": 0.0
+    },
+    "2008": {
+      "celkem": 4964,
+      "upt": 0,
+      "spontanni": 1665,
+      "ostatni": 172,
+      "ratio_upt_spont": 0.0
+    },
+    "2009": {
+      "celkem": 4581,
+      "upt": 0,
+      "spontanni": 1674,
+      "ostatni": 146,
+      "ratio_upt_spont": 0.0
+    },
+    "2010": {
+      "celkem": 4531,
+      "upt": 0,
+      "spontanni": 1538,
+      "ostatni": 145,
+      "ratio_upt_spont": 0.0
+    },
+    "2011": {
+      "celkem": 4455,
+      "upt": 0,
+      "spontanni": 1594,
+      "ostatni": 154,
+      "ratio_upt_spont": 0.0
+    },
+    "2012": {
+      "celkem": 4223,
+      "upt": 0,
+      "spontanni": 1577,
+      "ostatni": 121,
+      "ratio_upt_spont": 0.0
+    },
+    "2013": {
+      "celkem": 4293,
+      "upt": 0,
+      "spontanni": 1597,
+      "ostatni": 159,
+      "ratio_upt_spont": 0.0
+    },
+    "2014": {
+      "celkem": 3963,
+      "upt": 0,
+      "spontanni": 1549,
+      "ostatni": 117,
+      "ratio_upt_spont": 0.0
+    },
+    "2015": {
+      "celkem": 3922,
+      "upt": 0,
+      "spontanni": 1533,
+      "ostatni": 152,
+      "ratio_upt_spont": 0.0
+    },
+    "2016": {
+      "celkem": 3854,
+      "upt": 0,
+      "spontanni": 1546,
+      "ostatni": 146,
+      "ratio_upt_spont": 0.0
+    },
+    "2017": {
+      "celkem": 4066,
+      "upt": 0,
+      "spontanni": 1667,
+      "ostatni": 149,
+      "ratio_upt_spont": 0.0
+    },
+    "2018": {
+      "celkem": 3683,
+      "upt": 0,
+      "spontanni": 1595,
+      "ostatni": 135,
+      "ratio_upt_spont": 0.0
+    },
+    "2019": {
+      "celkem": 3497,
+      "upt": 0,
+      "spontanni": 1479,
+      "ostatni": 130,
+      "ratio_upt_spont": 0.0
+    },
+    "2020": {
+      "celkem": 3187,
+      "upt": 0,
+      "spontanni": 1333,
+      "ostatni": 124,
+      "ratio_upt_spont": 0.0
+    },
+    "2021": {
+      "celkem": 2831,
+      "upt": 0,
+      "spontanni": 1097,
+      "ostatni": 131,
+      "ratio_upt_spont": 0.0
+    },
+    "2022": {
+      "celkem": 3087,
+      "upt": 0,
+      "spontanni": 1024,
+      "ostatni": 109,
+      "ratio_upt_spont": 0.0
+    },
+    "2023": {
+      "celkem": 3162,
+      "upt": 0,
+      "spontanni": 1072,
+      "ostatni": 117,
+      "ratio_upt_spont": 0.0
+    },
+    "2024": {
+      "celkem": 2973,
+      "upt": 0,
+      "spontanni": 1034,
+      "ostatni": 107,
+      "ratio_upt_spont": 0.0
+    },
+    "2025": {
+      "celkem": 2608,
+      "upt": 0,
+      "spontanni": 856,
+      "ostatni": 89,
+      "ratio_upt_spont": 0.0
+    }
+  },
+  "CZ088": {
+    "1996": {
+      "celkem": 1,
+      "upt": 0,
+      "spontanni": 1,
+      "ostatni": 0,
+      "ratio_upt_spont": 0.0
+    },
+    "1999": {
+      "celkem": 1,
+      "upt": 0,
+      "spontanni": 1,
+      "ostatni": 0,
+      "ratio_upt_spont": 0.0
+    },
+    "2012": {
+      "celkem": 1,
+      "upt": 0,
+      "spontanni": 1,
+      "ostatni": 0,
+      "ratio_upt_spont": 0.0
+    },
+    "2014": {
+      "celkem": 1,
+      "upt": 0,
+      "spontanni": 0,
+      "ostatni": 1,
+      "ratio_upt_spont": 0
+    },
+    "2017": {
+      "celkem": 1,
+      "upt": 0,
+      "spontanni": 0,
+      "ostatni": 0,
+      "ratio_upt_spont": 0
+    },
+    "2018": {
+      "celkem": 1,
+      "upt": 0,
+      "spontanni": 1,
+      "ostatni": 0,
+      "ratio_upt_spont": 0.0
+    },
+    "2021": {
+      "celkem": 1,
+      "upt": 0,
+      "spontanni": 0,
+      "ostatni": 0,
+      "ratio_upt_spont": 0
+    },
+    "2023": {
+      "celkem": 28,
+      "upt": 0,
+      "spontanni": 14,
+      "ostatni": 0,
+      "ratio_upt_spont": 0.0
+    },
+    "2024": {
+      "celkem": 22,
+      "upt": 0,
+      "spontanni": 10,
+      "ostatni": 0,
+      "ratio_upt_spont": 0.0
+    },
+    "2025": {
+      "celkem": 22,
+      "upt": 0,
+      "spontanni": 7,
+      "ostatni": 2,
+      "ratio_upt_spont": 0.0
+    }
+  },
+  "CZ099": {
+    "2016": {
+      "celkem": 12,
+      "upt": 0,
+      "spontanni": 4,
+      "ostatni": 4,
+      "ratio_upt_spont": 0.0
+    },
+    "2017": {
+      "celkem": 19,
+      "upt": 0,
+      "spontanni": 9,
+      "ostatni": 2,
+      "ratio_upt_spont": 0.0
+    },
+    "2018": {
+      "celkem": 24,
+      "upt": 0,
+      "spontanni": 11,
+      "ostatni": 2,
+      "ratio_upt_spont": 0.0
+    },
+    "2019": {
+      "celkem": 22,
+      "upt": 0,
+      "spontanni": 17,
+      "ostatni": 0,
+      "ratio_upt_spont": 0.0
+    },
+    "2020": {
+      "celkem": 20,
+      "upt": 0,
+      "spontanni": 10,
+      "ostatni": 1,
+      "ratio_upt_spont": 0.0
+    },
+    "2021": {
+      "celkem": 6,
+      "upt": 0,
+      "spontanni": 1,
+      "ostatni": 0,
+      "ratio_upt_spont": 0.0
+    },
+    "2022": {
+      "celkem": 26,
+      "upt": 0,
+      "spontanni": 9,
+      "ostatni": 1,
+      "ratio_upt_spont": 0.0
+    },
+    "2023": {
+      "celkem": 42,
+      "upt": 0,
+      "spontanni": 15,
+      "ostatni": 3,
+      "ratio_upt_spont": 0.0
+    },
+    "2024": {
+      "celkem": 44,
+      "upt": 0,
+      "spontanni": 17,
+      "ostatni": 1,
+      "ratio_upt_spont": 0.0
+    },
+    "2025": {
+      "celkem": 54,
+      "upt": 0,
+      "spontanni": 19,
+      "ostatni": 3,
+      "ratio_upt_spont": 0.0
+    }
+  }
+}
